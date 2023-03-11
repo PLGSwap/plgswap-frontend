@@ -1,7 +1,7 @@
 import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, TradeType, ZERO_PERCENT } from '@plgswap/sdk'
 
 import { parseUnits } from '@ethersproject/units'
-import PlgSwapMMLinkedPoolABI from 'config/abi/mmLinkedPool.json'
+import PancakeSwapMMLinkedPoolABI from 'config/abi/mmLinkedPool.json'
 import { MmLinkedPool } from 'config/abi/types/MmLinkedPool'
 import { ONE_HUNDRED_PERCENT } from 'config/constants/exchange'
 import { useActiveChainId } from 'hooks/useActiveChainId'
@@ -13,7 +13,7 @@ import { OrderBookRequest, TradeWithMM } from '../types'
 
 export function useMMSwapContract() {
   const { chainId } = useActiveChainId()
-  return useContract<MmLinkedPool>(MM_SWAP_CONTRACT_ADDRESS[chainId], PlgSwapMMLinkedPoolABI, true)
+  return useContract<MmLinkedPool>(MM_SWAP_CONTRACT_ADDRESS[chainId], PancakeSwapMMLinkedPoolABI, true)
 }
 
 // computes price breakdown for the trade

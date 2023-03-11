@@ -1,7 +1,7 @@
 {
   "name": "@plgswap/eslint-config-pancake",
   "version": "1.2.0",
-  "description": "Eslint config for PlgSwap",
+  "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
