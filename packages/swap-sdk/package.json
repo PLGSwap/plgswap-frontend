@@ -2,7 +2,7 @@
   "name": "@plgswap/sdk",
   "license": "MIT",
   "version": "3.1.4",
-  "description": "🛠 An SDK for building applications on top of Plgswap.",
+  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
