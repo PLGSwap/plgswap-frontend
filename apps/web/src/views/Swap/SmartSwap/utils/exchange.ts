@@ -4,8 +4,8 @@ import { TradeWithStableSwap, Trade, isStableSwapPair } from '@plgswap/smart-rou
 import { BIPS_BASE, INPUT_FRACTION_AFTER_FEE, ONE_HUNDRED_PERCENT } from 'config/constants/exchange'
 import { Field } from 'state/swap/actions'
 import { basisPointsToPercent } from 'utils/exchange'
-import PancakeSwapSmartRouterABI from 'config/abi/pancakeSwapSmartRouter.json'
-import { PancakeSwapSmartRouter } from 'config/abi/types/PancakeSwapSmartRouter'
+import PlgSwapSmartRouterABI from 'config/abi/pancakeSwapSmartRouter.json'
+import { PlgSwapSmartRouter } from 'config/abi/types/PlgSwapSmartRouter'
 import { useContract } from 'hooks/useContract'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { ChainMap } from 'config/constants/types'
@@ -19,7 +19,7 @@ export const SMART_ROUTER_ADDRESS: ChainMap<string> = {
 
 export function useSmartRouterContract() {
   const { chainId } = useActiveChainId()
-  return useContract<PancakeSwapSmartRouter>(SMART_ROUTER_ADDRESS[chainId], PancakeSwapSmartRouterABI, true)
+  return useContract<PlgSwapSmartRouter>(SMART_ROUTER_ADDRESS[chainId], PlgSwapSmartRouterABI, true)
 }
 
 export function calculateSlippageAmount(value: CurrencyAmount<Currency>, slippage: number): [JSBI, JSBI] {

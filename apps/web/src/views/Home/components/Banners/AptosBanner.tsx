@@ -2,7 +2,7 @@ import { useTranslation } from '@plgswap/localization'
 import { Button, Text, useMatchBreakpoints, Box, OpenNewIcon } from '@plgswap/uikit'
 import Image from 'next/legacy/image'
 import styled from 'styled-components'
-import { Aptos, AptosXPancakeSwap } from './images'
+import { Aptos, AptosXPlgSwap } from './images'
 import * as S from './Styled'
 
 const RightWrapper = styled.div`
@@ -54,7 +54,7 @@ const AptosBanner = () => {
       <S.Inner>
         <S.LeftWrapper>
           <Box marginTop="3px">
-            <Image src={AptosXPancakeSwap} alt="aptosXPancakeSwapImage" width={211} height={18} placeholder="blur" />
+            <Image src={AptosXPlgSwap} alt="aptosXPlgSwapImage" width={211} height={18} placeholder="blur" />
           </Box>
           <AptosTitle>{t('Hello Aptos Project Teams!')}</AptosTitle>
 
