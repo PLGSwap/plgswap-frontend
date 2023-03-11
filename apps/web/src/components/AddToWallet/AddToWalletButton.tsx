@@ -1,4 +1,4 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   BinanceChainIcon,
   Button,
@@ -8,7 +8,7 @@ import {
   OperaIcon,
   TokenPocketIcon,
   TrustWalletIcon,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
 import { canRegisterToken } from '../../utils/wallet'
 import { BAD_SRCS } from '../Logo/constants'

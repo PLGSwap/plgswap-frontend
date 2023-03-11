@@ -1,10 +1,10 @@
-import { Box, Text, Skeleton, Balance } from '@plgswap/uikit'
+import { Box, Text, Skeleton, Balance } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { usePotteryData } from 'state/pottery/hook'
-import { getBalanceAmount } from '@plgswap/utils/formatBalance'
+import { getBalanceAmount } from '@pancakeswap/utils/formatBalance'
 
 interface YourDepositProps {
   depositBalance?: any

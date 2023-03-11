@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Text, Flex, TooltipText, useTooltip } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Text, Flex, TooltipText, useTooltip } from '@pancakeswap/uikit'
 import { format } from 'date-fns'
 
 interface PropsType {

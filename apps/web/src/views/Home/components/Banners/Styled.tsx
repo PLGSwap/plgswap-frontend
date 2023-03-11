@@ -1,4 +1,4 @@
-import { Flex, Heading } from '@plgswap/uikit'
+import { Flex, Heading } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 
 export const StyledSubheading = styled(Heading)`

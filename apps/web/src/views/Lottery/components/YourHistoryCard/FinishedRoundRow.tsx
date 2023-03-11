@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { useTranslation } from '@plgswap/localization'
-import { Text, Flex, ChevronRightIcon, Box, SmallDotIcon, PrizeIcon } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Text, Flex, ChevronRightIcon, Box, SmallDotIcon, PrizeIcon } from '@pancakeswap/uikit'
 import { dateOptions, timeOptions } from '../../helpers'
 
 interface FinishedRoundRowProps {

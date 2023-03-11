@@ -1,6 +1,6 @@
-import { Farm as FarmUI, FarmTableFarmTokenInfoProps } from '@plgswap/uikit'
+import { Farm as FarmUI, FarmTableFarmTokenInfoProps } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
-import { BIG_ZERO } from '@plgswap/utils/bigNumber'
+import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { TokenPairImage } from 'components/TokenImage'
 import { useFarmUserInfoCache } from 'state/farms/hook'
 

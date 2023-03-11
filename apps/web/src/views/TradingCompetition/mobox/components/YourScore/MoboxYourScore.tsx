@@ -1,6 +1,6 @@
-import { Skeleton, Heading, Text } from '@plgswap/uikit'
+import { Skeleton, Heading, Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import ScoreHeader from '../../../components/YourScore/ScoreHeader'
 import RibbonWithImage from '../../../components/RibbonWithImage'
 import { YourScoreProps } from '../../../types'

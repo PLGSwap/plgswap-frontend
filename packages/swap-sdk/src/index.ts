@@ -8,4 +8,4 @@ export * from './trade'
 export * from './entities'
 export * from './router'
 
-export * from '@plgswap/swap-sdk-core'
+export * from '@pancakeswap/swap-sdk-core'

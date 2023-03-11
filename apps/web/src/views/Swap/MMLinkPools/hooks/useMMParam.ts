@@ -1,4 +1,4 @@
-import { Currency } from '@plgswap/sdk'
+import { Currency } from '@pancakeswap/sdk'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useMemo } from 'react'
 import { Field } from 'state/swap/actions'

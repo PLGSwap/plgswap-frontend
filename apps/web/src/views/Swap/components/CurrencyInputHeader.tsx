@@ -1,4 +1,4 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   ChartDisableIcon,
   ChartIcon,
@@ -13,7 +13,7 @@ import {
   TooltipText,
   useModal,
   useTooltip,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 
 import TransactionsModal from 'components/App/Transactions/TransactionsModal'
 import GlobalSettings from 'components/Menu/GlobalSettings'

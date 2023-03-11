@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 
 import { PairState, usePairs } from 'hooks/usePairs'
 import { CE_USDC, L0_USDC, WH_USDC } from 'config/coins'
-import { Currency, JSBI, Pair, Price } from '@plgswap/aptos-swap-sdk'
+import { Currency, JSBI, Pair, Price } from '@pancakeswap/aptos-swap-sdk'
 
 import splitTypeTag from '../../../utils/splitTypeTag'
 import getTokenByAddress from '../utils/getTokenByAddress'

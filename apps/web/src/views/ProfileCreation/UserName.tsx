@@ -1,5 +1,5 @@
 import { formatUnits } from '@ethersproject/units'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   AutoRenewIcon,
   Button,
@@ -15,9 +15,9 @@ import {
   useModal,
   useToast,
   WarningIcon,
-} from '@plgswap/uikit'
-import { useDebounce } from '@plgswap/hooks'
-import { useSignMessage } from '@plgswap/wagmi'
+} from '@pancakeswap/uikit'
+import { useDebounce } from '@pancakeswap/hooks'
+import { useSignMessage } from '@pancakeswap/wagmi'
 import { API_PROFILE } from 'config/constants/endpoints'
 import { FetchStatus } from 'config/constants/types'
 import { formatDistance, parseISO } from 'date-fns'

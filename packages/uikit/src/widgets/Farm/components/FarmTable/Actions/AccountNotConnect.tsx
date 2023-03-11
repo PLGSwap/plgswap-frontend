@@ -1,4 +1,4 @@
-import { useTranslation } from "@plgswap/localization";
+import { useTranslation } from "@pancakeswap/localization";
 import { Text } from "../../../../../components/Text";
 import { ActionContent, ActionTitles, StyledActionContainer } from "./styles";
 

@@ -1,4 +1,4 @@
-import { ChainId } from '@plgswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 
 import { StableSwapPool } from '../../types/pool'
 import { pools as bscPools } from './56'

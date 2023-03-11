@@ -1,5 +1,5 @@
-import '@plgswap/ui/css/reset.css'
-import { ResetCSS, ScrollToTopButtonV2, ToastListener } from '@plgswap/uikit'
+import '@pancakeswap/ui/css/reset.css'
+import { ResetCSS, ScrollToTopButtonV2, ToastListener } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import GlobalCheckClaimStatus from 'components/GlobalCheckClaimStatus'
 import { NetworkModal } from 'components/NetworkModal'

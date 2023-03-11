@@ -1,4 +1,4 @@
-import { Svg, SvgProps } from '@plgswap/uikit'
+import { Svg, SvgProps } from '@pancakeswap/uikit'
 
 // NOTE: Temporary save icon here. Will move to uikit when the feature is done
 

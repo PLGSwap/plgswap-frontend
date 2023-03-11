@@ -1,4 +1,4 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   Box,
   Button,
@@ -12,8 +12,8 @@ import {
   Text,
   ThemeSwitcher,
   Toggle,
-} from '@plgswap/uikit'
-import { escapeRegExp } from '@plgswap/utils/escapeRegExp'
+} from '@pancakeswap/uikit'
+import { escapeRegExp } from '@pancakeswap/utils/escapeRegExp'
 import { useTheme } from 'next-themes'
 import { useCallback, useState } from 'react'
 import { useAudioPlay, useUserSlippage } from 'state/user'

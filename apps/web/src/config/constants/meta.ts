@@ -1,5 +1,5 @@
 import memoize from 'lodash/memoize'
-import { ContextApi } from '@plgswap/localization'
+import { ContextApi } from '@pancakeswap/localization'
 import { PageMeta } from './types'
 import { ASSET_CDN } from './endpoints'
 

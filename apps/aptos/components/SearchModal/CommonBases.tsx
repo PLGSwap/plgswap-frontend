@@ -1,8 +1,8 @@
-import { ChainId, Currency, Token } from '@plgswap/aptos-swap-sdk'
-import { Text, QuestionHelper, AutoColumn, AutoRow } from '@plgswap/uikit'
+import { ChainId, Currency, Token } from '@pancakeswap/aptos-swap-sdk'
+import { Text, QuestionHelper, AutoColumn, AutoRow } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import useNativeCurrency from 'hooks/useNativeCurrency'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 
 import { SUGGESTED_BASES } from 'config/constants/exchange'
 import { CurrencyLogo } from '../Logo'

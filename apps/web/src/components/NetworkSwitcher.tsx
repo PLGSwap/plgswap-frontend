@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { ChainId, NATIVE } from '@plgswap/sdk'
+import { useTranslation } from '@pancakeswap/localization'
+import { ChainId, NATIVE } from '@pancakeswap/sdk'
 import {
   ArrowDownIcon,
   ArrowUpIcon,
@@ -12,7 +12,7 @@ import {
   UserMenuDivider,
   UserMenuItem,
   useTooltip,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAccount, useNetwork } from 'wagmi'
 import { useActiveChainId, useLocalNetworkChain } from 'hooks/useActiveChainId'
 import { useNetworkConnectorUpdater } from 'hooks/useActiveWeb3React'

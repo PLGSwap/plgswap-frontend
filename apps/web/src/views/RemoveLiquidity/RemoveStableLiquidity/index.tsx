@@ -1,8 +1,8 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { TransactionResponse } from '@ethersproject/providers'
-import { useDebouncedChangeHandler } from '@plgswap/hooks'
-import { useTranslation } from '@plgswap/localization'
-import { Currency, Percent, WNATIVE } from '@plgswap/sdk'
+import { useDebouncedChangeHandler } from '@pancakeswap/hooks'
+import { useTranslation } from '@pancakeswap/localization'
+import { Currency, Percent, WNATIVE } from '@pancakeswap/sdk'
 import {
   AddIcon,
   ArrowDownIcon,
@@ -19,7 +19,7 @@ import {
   useMatchBreakpoints,
   useModal,
   useToast,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { CommitButton } from 'components/CommitButton'
 import { useStableSwapNativeHelperContract } from 'hooks/useContract'
 import useNativeCurrency from 'hooks/useNativeCurrency'

@@ -1,7 +1,7 @@
-import { ModalProvider, light, dark, UIKitProvider } from '@plgswap/uikit'
+import { ModalProvider, light, dark, UIKitProvider } from '@pancakeswap/uikit'
 import { SWRConfig } from 'swr'
-import { LanguageProvider } from '@plgswap/localization'
-import { AwgmiConfig } from '@plgswap/awgmi'
+import { LanguageProvider } from '@pancakeswap/localization'
+import { AwgmiConfig } from '@pancakeswap/awgmi'
 import { ThemeProvider as NextThemeProvider, useTheme as useNextTheme } from 'next-themes'
 import { client } from '../client'
 

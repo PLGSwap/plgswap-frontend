@@ -10,10 +10,10 @@ import {
   ModalContainer,
   ModalHeader as UIKitModalHeader,
   ModalTitle,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAccount, useBalance } from 'wagmi'
 import { useState, useCallback } from 'react'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import styled from 'styled-components'
 import WalletInfo from './WalletInfo'
 import WalletTransactions from './WalletTransactions'

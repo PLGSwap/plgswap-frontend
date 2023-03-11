@@ -1,6 +1,6 @@
-import { createFarmFetcher, SerializedFarm, SerializedFarmsState } from '@plgswap/farms'
-import { getFarmConfig } from '@plgswap/farms/constants'
-import { ChainId } from '@plgswap/sdk'
+import { createFarmFetcher, SerializedFarm, SerializedFarmsState } from '@pancakeswap/farms'
+import { getFarmConfig } from '@pancakeswap/farms/constants'
+import { ChainId } from '@pancakeswap/sdk'
 import { createAsyncThunk, createSlice, isAnyOf } from '@reduxjs/toolkit'
 import type {
   UnknownAsyncThunkFulfilledAction,

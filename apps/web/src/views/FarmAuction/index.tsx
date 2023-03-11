@@ -9,9 +9,9 @@ import {
   PageHeader,
   PageSection,
   OpenNewIcon,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import useTheme from 'hooks/useTheme'
 import NextLink from 'next/link'
 import FAQs from './components/FAQs'

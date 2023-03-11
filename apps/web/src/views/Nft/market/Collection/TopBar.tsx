@@ -1,6 +1,6 @@
-import { Box, ChevronLeftIcon, Flex, NextLinkFromReactRouter } from '@plgswap/uikit'
+import { Box, ChevronLeftIcon, Flex, NextLinkFromReactRouter } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import SearchBar from '../components/SearchBar'
 

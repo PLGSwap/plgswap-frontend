@@ -1,9 +1,9 @@
-import { ChainId, Currency } from '@plgswap/sdk'
-import { BinanceIcon, TokenLogo } from '@plgswap/uikit'
+import { ChainId, Currency } from '@pancakeswap/sdk'
+import { BinanceIcon, TokenLogo } from '@pancakeswap/uikit'
 import { useMemo } from 'react'
-import { WrappedTokenInfo } from '@plgswap/token-lists'
+import { WrappedTokenInfo } from '@pancakeswap/token-lists'
 import styled from 'styled-components'
-import { useHttpLocations } from '@plgswap/hooks'
+import { useHttpLocations } from '@pancakeswap/hooks'
 import { BAD_SRCS } from './constants'
 import getTokenLogoURL from '../../utils/getTokenLogoURL'
 

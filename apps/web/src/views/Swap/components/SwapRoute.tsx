@@ -1,5 +1,5 @@
-import { Currency } from '@plgswap/sdk'
-import { ChevronRightIcon, Flex, Text } from '@plgswap/uikit'
+import { Currency } from '@pancakeswap/sdk'
+import { ChevronRightIcon, Flex, Text } from '@pancakeswap/uikit'
 import { Fragment, memo } from 'react'
 import { unwrappedToken } from 'utils/wrappedCurrency'
 

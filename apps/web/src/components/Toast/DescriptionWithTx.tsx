@@ -1,8 +1,8 @@
-import { Link, Text, BscScanIcon } from '@plgswap/uikit'
-import { ChainId } from '@plgswap/sdk'
+import { Link, Text, BscScanIcon } from '@pancakeswap/uikit'
+import { ChainId } from '@pancakeswap/sdk'
 import { getBlockExploreLink, getBlockExploreName } from 'utils'
-import { useTranslation } from '@plgswap/localization'
-import truncateHash from '@plgswap/utils/truncateHash'
+import { useTranslation } from '@pancakeswap/localization'
+import truncateHash from '@pancakeswap/utils/truncateHash'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 
 interface DescriptionWithTxProps {

@@ -1,8 +1,8 @@
 import { memo, useMemo } from 'react'
-import { useMatchBreakpoints, Pool } from '@plgswap/uikit'
+import { useMatchBreakpoints, Pool } from '@pancakeswap/uikit'
 import { usePool, useDeserializedPoolByVaultKey, useVaultPoolByKey } from 'state/pools/hooks'
 import { VaultKey } from 'state/types'
-import { getBalanceNumber } from '@plgswap/utils/formatBalance'
+import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 
 import NameCell from './Cells/NameCell'
 import EarningsCell from './Cells/EarningsCell'

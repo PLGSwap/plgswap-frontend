@@ -1,7 +1,7 @@
-import { Button, useModal, WaitIcon, ButtonProps } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Button, useModal, WaitIcon, ButtonProps } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import { useLottery } from 'state/lottery/hooks'
-import { useTheme } from '@plgswap/hooks'
+import { useTheme } from '@pancakeswap/hooks'
 import { LotteryStatus } from 'config/constants/types'
 import BuyTicketsModal from './BuyTicketsModal/BuyTicketsModal'
 

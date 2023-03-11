@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, BoxProps, Flex, Skeleton, Text } from '@plgswap/uikit'
+import { Box, BoxProps, Flex, Skeleton, Text } from '@pancakeswap/uikit'
 
 export interface StatBoxItemProps extends BoxProps {
   title: string

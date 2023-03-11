@@ -17,15 +17,15 @@ import {
   IfoSkeletonCardTokens,
   IfoPercentageOfTotal,
   IfoVestingAvailableToClaim,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
-import { Token } from '@plgswap/sdk'
+import { Token } from '@pancakeswap/sdk'
 import { Ifo, PoolIds } from 'config/constants/types'
-import { bscTokens } from '@plgswap/tokens'
+import { bscTokens } from '@pancakeswap/tokens'
 import { cakeBnbLpToken } from 'config/constants/ifo'
 import { PublicIfoData, WalletIfoData } from 'views/Ifos/types'
-import { useTranslation } from '@plgswap/localization'
-import { getBalanceNumber, formatNumber } from '@plgswap/utils/formatBalance'
+import { useTranslation } from '@pancakeswap/localization'
+import { getBalanceNumber, formatNumber } from '@pancakeswap/utils/formatBalance'
 import { useIfoCredit } from 'state/pools/hooks'
 import { TokenImage, TokenPairImage } from 'components/TokenImage'
 import { EnableStatus } from '../types'

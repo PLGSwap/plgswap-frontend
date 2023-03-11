@@ -1,8 +1,8 @@
-import { useTranslation } from '@plgswap/localization'
-import { ButtonMenu, ButtonMenuItem, useMatchBreakpoints } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { ButtonMenu, ButtonMenuItem, useMatchBreakpoints } from '@pancakeswap/uikit'
 import { memo, useState, useMemo } from 'react'
 import { useActiveChainId } from 'hooks/useActiveChainId'
-import { ChainId, Currency } from '@plgswap/sdk'
+import { ChainId, Currency } from '@pancakeswap/sdk'
 
 import styled from 'styled-components'
 import TokenTable from './SwapTokenTable'

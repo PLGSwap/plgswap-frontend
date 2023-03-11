@@ -1,6 +1,6 @@
-import { useTranslation } from '@plgswap/localization'
-import { Swap } from '@plgswap/uikit'
-import { ChainId } from '@plgswap/sdk'
+import { useTranslation } from '@pancakeswap/localization'
+import { Swap } from '@pancakeswap/uikit'
+import { ChainId } from '@pancakeswap/sdk'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { EXCHANGE_HELP_URLS } from 'config/constants'
 

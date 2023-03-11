@@ -8,11 +8,11 @@ import {
   UserMenuItem,
   Text,
   NextLinkFromReactRouter,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useCallback } from 'react'
 import { useSwitchNetwork } from 'hooks/useSwitchNetwork'
-import { ChainId } from '@plgswap/sdk'
-import { useTranslation } from '@plgswap/localization'
+import { ChainId } from '@pancakeswap/sdk'
+import { useTranslation } from '@pancakeswap/localization'
 import { useRouter } from 'next/router'
 import styled from 'styled-components'
 import Search from 'views/Info/components/InfoSearch'

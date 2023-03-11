@@ -1,6 +1,6 @@
 import { useCallback, useContext, useMemo, useState } from 'react'
 import { BigNumber } from '@ethersproject/bignumber'
-import { CurrencyAmount, Token, WNATIVE, Percent } from '@plgswap/sdk'
+import { CurrencyAmount, Token, WNATIVE, Percent } from '@pancakeswap/sdk'
 import {
   Button,
   Text,
@@ -15,9 +15,9 @@ import {
   PencilIcon,
   AutoColumn,
   ColumnCenter,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { logError } from 'utils/sentry'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { CommitButton } from 'components/CommitButton'
 import { transactionErrorToUserReadableMessage } from 'utils/transactionErrorToUserReadableMessage'

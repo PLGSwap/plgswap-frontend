@@ -1,4 +1,4 @@
-# @plgswap/awgmi
+# @pancakeswap/awgmi
 
 ## 0.1.0
 

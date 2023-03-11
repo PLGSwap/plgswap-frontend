@@ -12,8 +12,8 @@ import {
   Heading,
   Skeleton,
   Box,
-} from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+} from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import { LotteryStatus } from 'config/constants/types'
 import { useGetUserLotteriesGraphData, useLottery } from 'state/lottery/hooks'
 import { fetchLottery } from 'state/lottery/helpers'

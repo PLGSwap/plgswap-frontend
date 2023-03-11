@@ -1,6 +1,6 @@
-import { Currency, CurrencyAmount, Percent, Token } from '@plgswap/sdk'
+import { Currency, CurrencyAmount, Percent, Token } from '@pancakeswap/sdk'
 
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { Field } from 'state/burn/actions'
 import { useTokenBalances } from 'state/wallet/hooks'
 import { useBurnState } from 'state/burn/hooks'

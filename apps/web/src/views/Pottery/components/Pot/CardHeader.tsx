@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, TokenPairImage, Pool } from '@plgswap/uikit'
+import { Flex, TokenPairImage, Pool } from '@pancakeswap/uikit'
 
 const Container = styled(Flex)`
   align-items: center;

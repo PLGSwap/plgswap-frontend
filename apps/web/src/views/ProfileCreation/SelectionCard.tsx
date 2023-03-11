@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, Radio } from '@plgswap/uikit'
+import { Card, Radio } from '@pancakeswap/uikit'
 
 interface SelectionCardProps {
   name: string

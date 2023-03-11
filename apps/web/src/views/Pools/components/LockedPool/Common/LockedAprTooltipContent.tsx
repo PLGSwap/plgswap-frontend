@@ -1,4 +1,4 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 
 export default function LockedAprTooltipContent({ boostedYieldAmount }) {
   const { t } = useTranslation()

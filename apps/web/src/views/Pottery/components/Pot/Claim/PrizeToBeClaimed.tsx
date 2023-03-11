@@ -1,8 +1,8 @@
-import { useTranslation } from '@plgswap/localization'
-import { Flex, Box, Text, Balance } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Flex, Box, Text, Balance } from '@pancakeswap/uikit'
 import { DeserializedPotteryUserData } from 'state/types'
 import { usePriceCakeBusd } from 'state/farms/hooks'
-import { getBalanceNumber } from '@plgswap/utils/formatBalance'
+import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import BigNumber from 'bignumber.js'
 import ClaimButton from './ClaimButton'
 

@@ -1,6 +1,6 @@
-import { IconButton, Text, TooltipText, useTooltip } from '@plgswap/uikit'
+import { IconButton, Text, TooltipText, useTooltip } from '@pancakeswap/uikit'
 
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { useCallback, useEffect, useState } from 'react'
 
 import styled, { keyframes } from 'styled-components'

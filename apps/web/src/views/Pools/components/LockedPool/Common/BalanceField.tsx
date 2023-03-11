@@ -1,10 +1,10 @@
-import { BalanceInput, Button, Flex, Image, Slider, Text } from '@plgswap/uikit'
+import { BalanceInput, Button, Flex, Image, Slider, Text } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { Dispatch, useMemo, memo, SetStateAction, useCallback } from 'react'
 import styled from 'styled-components'
-import { getFullDisplayBalance } from '@plgswap/utils/formatBalance'
-import { getFullDecimalMultiplier } from '@plgswap/utils/getFullDecimalMultiplier'
+import { getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
+import { getFullDecimalMultiplier } from '@pancakeswap/utils/getFullDecimalMultiplier'
 import { useUserEnoughCakeValidator } from '../hooks/useUserEnoughCakeValidator'
 
 const StyledButton = styled(Button)`

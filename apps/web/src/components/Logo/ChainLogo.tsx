@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { HelpIcon } from '@plgswap/uikit'
+import { HelpIcon } from '@pancakeswap/uikit'
 import { isChainSupported } from 'utils/wagmi'
 import { memo } from 'react'
 

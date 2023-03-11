@@ -1,13 +1,13 @@
 {
-  "name": "@plgswap/utils",
+  "name": "@pancakeswap/utils",
   "version": "0.0.1",
   "scripts": {
     "test": "vitest --run --globals"
   },
   "private": true,
   "dependencies": {
-    "@plgswap/tokens": "*",
-    "@plgswap/swap-sdk-core": "*",
-    "@plgswap/token-lists": "*"
+    "@pancakeswap/tokens": "*",
+    "@pancakeswap/swap-sdk-core": "*",
+    "@pancakeswap/token-lists": "*"
   }
 }

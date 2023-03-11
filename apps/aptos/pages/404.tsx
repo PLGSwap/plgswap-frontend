@@ -1,4 +1,4 @@
-import { NotFound } from '@plgswap/uikit'
+import { NotFound } from '@pancakeswap/uikit'
 
 const NotFoundPage = () => <NotFound />
 

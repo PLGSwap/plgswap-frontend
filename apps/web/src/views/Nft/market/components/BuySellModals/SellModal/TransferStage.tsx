@@ -1,6 +1,6 @@
-import { Flex, Grid, Text, Button, Input, BinanceIcon, ErrorIcon } from '@plgswap/uikit'
+import { Flex, Grid, Text, Button, Input, BinanceIcon, ErrorIcon } from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { NftToken } from 'state/nftMarket/types'
 import { isAddress } from 'utils'
 import { Divider, RoundedImage } from '../shared/styles'

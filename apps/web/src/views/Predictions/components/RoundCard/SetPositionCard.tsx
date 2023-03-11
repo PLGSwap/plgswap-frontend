@@ -15,19 +15,19 @@ import {
   Slider,
   Box,
   AutoRenewIcon,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { BigNumber, FixedNumber } from '@ethersproject/bignumber'
 import { Zero } from '@ethersproject/constants'
 import { parseUnits } from '@ethersproject/units'
 import { useAccount } from 'wagmi'
 import { useGetMinBetAmount } from 'state/predictions/hooks'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { usePredictionsContract } from 'hooks/useContract'
 import { useGetBnbBalance, useGetCakeBalance } from 'hooks/useTokenBalance'
 import { useCallWithGasPrice } from 'hooks/useCallWithGasPrice'
 import useCatchTxError from 'hooks/useCatchTxError'
 import { BetPosition } from 'state/types'
-import { formatBigNumber, formatFixedNumber } from '@plgswap/utils/formatBalance'
+import { formatBigNumber, formatFixedNumber } from '@pancakeswap/utils/formatBalance'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'
 import useCakeApprovalStatus from 'hooks/useCakeApprovalStatus'

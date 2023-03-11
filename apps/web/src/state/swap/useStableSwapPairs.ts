@@ -1,4 +1,4 @@
-import { stableSwapPairsByChainId } from '@plgswap/smart-router/evm'
+import { stableSwapPairsByChainId } from '@pancakeswap/smart-router/evm'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { useMemo } from 'react'
 

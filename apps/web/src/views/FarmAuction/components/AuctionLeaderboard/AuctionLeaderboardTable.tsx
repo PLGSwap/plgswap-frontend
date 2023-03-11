@@ -14,10 +14,10 @@ import {
   EllipsisIcon,
   LinkExternal,
   useMatchBreakpoints,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { getBlockExploreLink } from 'utils'
-import { getBalanceNumber } from '@plgswap/utils/formatBalance'
-import { useTranslation } from '@plgswap/localization'
+import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
+import { useTranslation } from '@pancakeswap/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { Bidder } from 'config/constants/types'
 import WhitelistedBiddersModal from '../WhitelistedBiddersModal'

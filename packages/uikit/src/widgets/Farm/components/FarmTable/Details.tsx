@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { useTranslation } from "@plgswap/localization";
+import { useTranslation } from "@pancakeswap/localization";
 import { ChevronDownIcon } from "../../../../components/Svg";
 import { useMatchBreakpoints } from "../../../../contexts";
 

@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Currency, CurrencyAmount, Token } from '@plgswap/sdk'
+import { Currency, CurrencyAmount, Token } from '@pancakeswap/sdk'
 import { useTokenContract } from './useContract'
 import { useSingleCallResult } from '../state/multicall/hooks'
 

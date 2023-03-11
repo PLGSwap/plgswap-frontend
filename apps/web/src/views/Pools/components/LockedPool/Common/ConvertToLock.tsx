@@ -1,6 +1,6 @@
-import { Token } from '@plgswap/sdk'
-import { Flex, Message, MessageText, useMatchBreakpoints, SkeletonV2 } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Token } from '@pancakeswap/sdk'
+import { Flex, Message, MessageText, useMatchBreakpoints, SkeletonV2 } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import { memo } from 'react'
 import { useVaultApy } from 'hooks/useVaultApy'
 

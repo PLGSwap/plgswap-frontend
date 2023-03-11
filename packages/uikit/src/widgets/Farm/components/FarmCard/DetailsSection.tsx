@@ -1,4 +1,4 @@
-import { useTranslation } from "@plgswap/localization";
+import { useTranslation } from "@pancakeswap/localization";
 import styled from "styled-components";
 import { Flex } from "../../../../components/Box";
 import { LinkExternal } from "../../../../components/Link";

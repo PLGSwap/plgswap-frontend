@@ -1,5 +1,5 @@
-import { Flex, LinkExternal, Text, Farm as FarmUI } from '@plgswap/uikit'
-import truncateHash from '@plgswap/utils/truncateHash'
+import { Flex, LinkExternal, Text, Farm as FarmUI } from '@pancakeswap/uikit'
+import truncateHash from '@pancakeswap/utils/truncateHash'
 import { getBlockExploreLink } from 'utils'
 import { Vote } from 'state/types'
 import { IPFS_GATEWAY } from '../../config'

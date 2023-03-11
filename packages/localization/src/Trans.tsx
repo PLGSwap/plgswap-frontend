@@ -1,5 +1,5 @@
 import { createElement, Fragment } from 'react'
-import { useTranslation, ContextData, TranslationKey } from '@plgswap/localization'
+import { useTranslation, ContextData, TranslationKey } from '@pancakeswap/localization'
 
 export interface TransProps extends ContextData {
   children: TranslationKey

@@ -1,7 +1,7 @@
-import { Currency, CurrencyAmount, JSBI, Price } from '@plgswap/sdk'
+import { Currency, CurrencyAmount, JSBI, Price } from '@pancakeswap/sdk'
 import { useContext, useMemo } from 'react'
-import { StableSwap } from '@plgswap/smart-router/evm'
-import tryParseAmount from '@plgswap/utils/tryParseAmount'
+import { StableSwap } from '@pancakeswap/smart-router/evm'
+import tryParseAmount from '@pancakeswap/utils/tryParseAmount'
 
 import { StableConfigContext } from 'views/Swap/StableSwap/hooks/useStableConfig'
 import { useStableSwapInfo } from 'hooks/useStableSwapInfo'

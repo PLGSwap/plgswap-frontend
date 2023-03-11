@@ -1,10 +1,10 @@
 import React, { useMemo } from 'react'
-import { Flex, Text, Skeleton, Balance, Pool } from '@plgswap/uikit'
+import { Flex, Text, Skeleton, Balance, Pool } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import BigNumber from 'bignumber.js'
-import { getBalanceNumber } from '@plgswap/utils/formatBalance'
-import { Token } from '@plgswap/sdk'
+import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
+import { Token } from '@pancakeswap/sdk'
 
 interface TotalStakedCellProps {
   pool: Pool.DeserializedPool<Token>

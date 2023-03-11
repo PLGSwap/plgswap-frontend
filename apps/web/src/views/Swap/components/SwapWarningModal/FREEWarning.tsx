@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Text } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Text } from '@pancakeswap/uikit'
 
 const FREEWarning = () => {
   const { t } = useTranslation()

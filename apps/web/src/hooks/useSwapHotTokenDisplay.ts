@@ -1,5 +1,5 @@
-import { ChainId } from '@plgswap/sdk'
-import { useMatchBreakpoints } from '@plgswap/uikit'
+import { ChainId } from '@pancakeswap/sdk'
+import { useMatchBreakpoints } from '@pancakeswap/uikit'
 import { useAtom } from 'jotai'
 import atomWithStorageWithErrorCatch from 'utils/atomWithStorageWithErrorCatch'
 import { useActiveChainId } from './useActiveChainId'

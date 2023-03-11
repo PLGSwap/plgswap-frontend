@@ -11,8 +11,8 @@ import {
   NftFillIcon,
   MoreIcon,
   DropdownMenuItems,
-} from '@plgswap/uikit'
-import { ContextApi } from '@plgswap/localization'
+} from '@pancakeswap/uikit'
+import { ContextApi } from '@pancakeswap/localization'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import { getPerpetualUrl } from 'utils/getPerpetualUrl'
 import { SUPPORT_ONLY_BSC } from 'config/constants/supportChains'

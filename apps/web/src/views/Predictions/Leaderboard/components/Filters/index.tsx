@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { Box, Flex, Text, Select, OptionProps } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Box, Flex, Text, Select, OptionProps } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { setLeaderboardFilter } from 'state/predictions'
 import Container from 'components/Layout/Container'

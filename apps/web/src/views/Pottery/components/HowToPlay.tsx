@@ -1,6 +1,6 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import styled from 'styled-components'
-import { Flex, Text, Card, Box } from '@plgswap/uikit'
+import { Flex, Text, Card, Box } from '@pancakeswap/uikit'
 import Divider from 'components/Divider'
 
 const HowToPlayContainer = styled(Flex)`

@@ -1,5 +1,5 @@
-import { modeVars } from '@plgswap/ui/css/vars.css'
-import { tokens } from '@plgswap/ui/tokens'
+import { modeVars } from '@pancakeswap/ui/css/vars.css'
+import { tokens } from '@pancakeswap/ui/tokens'
 import { createGlobalTheme } from '@vanilla-extract/css'
 
 createGlobalTheme('[data-theme="light"]', modeVars, {

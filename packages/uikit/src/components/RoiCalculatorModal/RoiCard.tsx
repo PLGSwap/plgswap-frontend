@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from "react";
 import styled from "styled-components";
-import { useTranslation } from "@plgswap/localization";
+import { useTranslation } from "@pancakeswap/localization";
 import { CalculatorMode, RoiCalculatorReducerState } from "./useRoiCalculatorReducer";
 import { Box, Flex } from "../Box";
 import { Text } from "../Text";

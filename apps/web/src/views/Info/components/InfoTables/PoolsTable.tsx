@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, NextLinkFromReactRouter, Skeleton, Text } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, NextLinkFromReactRouter, Skeleton, Text } from '@pancakeswap/uikit'
 import { ITEMS_PER_INFO_TABLE_PAGE } from 'config/constants/info'
 import { Fragment, useCallback, useEffect, useMemo, useState } from 'react'
 import { useGetChainName, useMultiChainPath, useStableSwapPath } from 'state/info/hooks'

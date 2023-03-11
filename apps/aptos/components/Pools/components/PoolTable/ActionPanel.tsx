@@ -1,9 +1,9 @@
 import styled, { keyframes, css } from 'styled-components'
-import { Box, Flex, Text, useMatchBreakpoints, Pool, Farm, HelpIcon, useTooltip } from '@plgswap/uikit'
+import { Box, Flex, Text, useMatchBreakpoints, Pool, Farm, HelpIcon, useTooltip } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
-import { Coin } from '@plgswap/aptos-swap-sdk'
-import { BIG_ZERO } from '@plgswap/utils/bigNumber'
-import { useTranslation } from '@plgswap/localization'
+import { Coin } from '@pancakeswap/aptos-swap-sdk'
+import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
+import { useTranslation } from '@pancakeswap/localization'
 import isVaultPool from 'components/Pools/utils/isVaultPool'
 
 import PoolStatsInfo from '../PoolCard/PoolStatsInfo'

@@ -1,9 +1,9 @@
-import { WalletConfigV2 } from '@plgswap/ui-wallets'
-import { WalletFilledIcon } from '@plgswap/uikit'
+import { WalletConfigV2 } from '@pancakeswap/ui-wallets'
+import { WalletFilledIcon } from '@pancakeswap/uikit'
 import type { ExtendEthereum } from 'global'
 import { isFirefox } from 'react-device-detect'
 import WalletConnectProvider from '@walletconnect/ethereum-provider'
-import { getTrustWalletProvider } from '@plgswap/wagmi/connectors/trustWallet'
+import { getTrustWalletProvider } from '@pancakeswap/wagmi/connectors/trustWallet'
 import { metaMaskConnector, walletConnectNoQrCodeConnector } from '../utils/wagmi'
 
 export enum ConnectorNames {

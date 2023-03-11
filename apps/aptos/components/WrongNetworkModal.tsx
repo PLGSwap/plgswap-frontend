@@ -1,6 +1,6 @@
-import { useDisconnect } from '@plgswap/awgmi'
-import { useTranslation } from '@plgswap/localization'
-import { Button, HelpIcon, Link, Message, MessageText, Modal, ModalV2, Text } from '@plgswap/uikit'
+import { useDisconnect } from '@pancakeswap/awgmi'
+import { useTranslation } from '@pancakeswap/localization'
+import { Button, HelpIcon, Link, Message, MessageText, Modal, ModalV2, Text } from '@pancakeswap/uikit'
 import { useActiveNetwork } from 'hooks/useNetwork'
 import styled from 'styled-components'
 

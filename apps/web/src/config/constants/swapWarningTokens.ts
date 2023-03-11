@@ -1,5 +1,5 @@
-import { Token } from '@plgswap/sdk'
-import { bscTokens } from '@plgswap/tokens'
+import { Token } from '@pancakeswap/sdk'
+import { bscTokens } from '@pancakeswap/tokens'
 import { bscWarningTokens } from 'config/constants/warningTokens'
 
 const { bondly, itam, ccar, bttold, abnbc } = bscTokens

@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { FarmWithStakedValue } from '@plgswap/farms'
+import { useTranslation } from '@pancakeswap/localization'
+import { FarmWithStakedValue } from '@pancakeswap/farms'
 import {
   Box,
   Farm as FarmUI,
@@ -12,11 +12,11 @@ import {
   useMatchBreakpoints,
   MobileColumnSchema,
   DesktopColumnSchema,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { createElement, useEffect, useRef, useState } from 'react'
 import styled from 'styled-components'
-import { BIG_ZERO } from '@plgswap/utils/bigNumber'
-import { useDelayedUnmount } from '@plgswap/hooks'
+import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
+import { useDelayedUnmount } from '@pancakeswap/hooks'
 
 import ActionPanel from './Actions/ActionPanel'
 import Apr, { AprProps } from './Apr'

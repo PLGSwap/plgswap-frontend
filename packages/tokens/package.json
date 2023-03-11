@@ -1,5 +1,5 @@
 {
-  "name": "@plgswap/tokens",
+  "name": "@pancakeswap/tokens",
   "license": "MIT",
   "version": "0.0.1",
   "description": "Tokens for pancakeswap",
@@ -7,6 +7,6 @@
   "private": true,
   "sideEffects": false,
   "dependencies": {
-    "@plgswap/sdk": "*"
+    "@pancakeswap/sdk": "*"
   }
 }

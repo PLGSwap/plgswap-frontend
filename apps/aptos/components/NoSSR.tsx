@@ -1,5 +1,5 @@
 import React from 'react'
-import { useIsMounted } from '@plgswap/hooks'
+import { useIsMounted } from '@pancakeswap/hooks'
 
 interface NoSSRProps {
   children?: React.ReactNode

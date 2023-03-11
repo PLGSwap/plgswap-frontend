@@ -1,6 +1,6 @@
-import { Text } from '@plgswap/uikit'
+import { Text } from '@pancakeswap/uikit'
 import { Auction, AuctionStatus } from 'config/constants/types'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 
 import styled from 'styled-components'
 

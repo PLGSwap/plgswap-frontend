@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Button, useModal } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Button, useModal } from '@pancakeswap/uikit'
 import { useCallback } from 'react'
 import useRemoveLiquidityHandler from '../hooks/useRemoveLiquidityHandler'
 import { useBurnActionHandlers } from '../state/remove'

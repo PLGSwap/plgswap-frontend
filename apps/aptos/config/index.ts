@@ -1,4 +1,4 @@
-import { getFullDecimalMultiplier } from '@plgswap/utils/getFullDecimalMultiplier'
+import { getFullDecimalMultiplier } from '@pancakeswap/utils/getFullDecimalMultiplier'
 
 export const DOMAIN = 'https://aptos.pancakeswap.finance'
 export const BASE_ADD_LIQUIDITY_URL = `${DOMAIN}/add`

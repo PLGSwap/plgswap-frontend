@@ -1,5 +1,5 @@
 /* eslint-disable no-nested-ternary */
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   Box,
   Breadcrumbs,
@@ -16,8 +16,8 @@ import {
   Text,
   useMatchBreakpoints,
   useTooltip,
-} from '@plgswap/uikit'
-import { ChainId } from '@plgswap/sdk'
+} from '@pancakeswap/uikit'
+import { ChainId } from '@pancakeswap/sdk'
 import { NextSeo } from 'next-seo'
 import { CHAIN_QUERY_NAME } from 'config/chains'
 import { useActiveChainId } from 'hooks/useActiveChainId'
@@ -77,7 +77,7 @@ const LockedTokensContainer = styled(Flex)`
 `
 
 const getFarmConfig = async (chainId: number) => {
-  const config = await import(`@plgswap/farms/constants/${chainId}`)
+  const config = await import(`@pancakeswap/farms/constants/${chainId}`)
   return config
 }
 

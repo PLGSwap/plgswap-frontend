@@ -1,4 +1,4 @@
-import { SerializedFarm } from '@plgswap/farms'
+import { SerializedFarm } from '@pancakeswap/farms'
 
 const getFarmsAuctionData = (farms: SerializedFarm[], winnerFarms: string[], auctionHostingEndDate: string) => {
   return farms.map((farm) => {

@@ -7,7 +7,7 @@ import {
   JSBI,
   Percent,
   TradeType,
-} from '@plgswap/aptos-swap-sdk'
+} from '@pancakeswap/aptos-swap-sdk'
 import {
   ALLOWED_PRICE_IMPACT_HIGH,
   ALLOWED_PRICE_IMPACT_LOW,

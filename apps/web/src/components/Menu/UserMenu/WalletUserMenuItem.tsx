@@ -1,5 +1,5 @@
-import { Flex, UserMenuItem, WarningIcon } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Flex, UserMenuItem, WarningIcon } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import { useAccount, useBalance } from 'wagmi'
 import { LOW_NATIVE_BALANCE } from './WalletModal'
 

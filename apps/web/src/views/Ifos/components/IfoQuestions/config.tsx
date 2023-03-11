@@ -1,6 +1,6 @@
 import Trans from 'components/Trans'
 import styled from 'styled-components'
-import { Link } from '@plgswap/uikit'
+import { Link } from '@pancakeswap/uikit'
 
 const InlineLink = styled(Link)`
   display: inline;

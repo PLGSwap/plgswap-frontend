@@ -14,7 +14,7 @@ import {
   Price,
   computePriceImpact,
   sortedInsert,
-} from '@plgswap/swap-sdk-core'
+} from '@pancakeswap/swap-sdk-core'
 
 import { Pair } from './pair'
 import { Route } from './route'

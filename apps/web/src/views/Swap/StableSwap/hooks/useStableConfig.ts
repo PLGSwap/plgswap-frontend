@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount } from '@plgswap/sdk'
+import { Currency, CurrencyAmount } from '@pancakeswap/sdk'
 import stableSwapInfoABI from 'config/abi/infoStableSwap.json'
 import stableLPABI from 'config/abi/stableLP.json'
 import stableSwapABI from 'config/abi/stableSwap.json'

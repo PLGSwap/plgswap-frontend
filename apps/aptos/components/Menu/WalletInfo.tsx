@@ -1,6 +1,6 @@
-import { useAccount, useAccountBalance, APTOS_COIN } from '@plgswap/awgmi'
+import { useAccount, useAccountBalance, APTOS_COIN } from '@pancakeswap/awgmi'
 
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   Box,
   Button,
@@ -11,7 +11,7 @@ import {
   Message,
   Skeleton,
   Text,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { useAuth } from 'hooks/useAuth'
 
 import { useActiveChainId } from 'hooks/useNetwork'

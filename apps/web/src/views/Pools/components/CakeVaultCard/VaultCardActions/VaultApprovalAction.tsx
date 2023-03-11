@@ -1,6 +1,6 @@
-import { Button, AutoRenewIcon, Skeleton } from '@plgswap/uikit'
+import { Button, AutoRenewIcon, Skeleton } from '@pancakeswap/uikit'
 import { VaultKey } from 'state/types'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { useVaultApprove } from '../../../hooks/useApprove'
 
 interface ApprovalActionProps {

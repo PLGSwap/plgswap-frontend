@@ -1,9 +1,9 @@
-import { ChainId } from '@plgswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 import erc20 from 'config/abi/erc20.json'
 import chunk from 'lodash/chunk'
 import { getMasterChefAddress } from 'utils/addressHelpers'
 import { multicallv2 } from 'utils/multicall'
-import { SerializedFarm } from '@plgswap/farms'
+import { SerializedFarm } from '@pancakeswap/farms'
 import { SerializedFarmConfig } from '../../config/constants/types'
 
 const fetchFarmCalls = (farm: SerializedFarm, chainId: number) => {

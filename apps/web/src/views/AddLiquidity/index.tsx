@@ -1,7 +1,7 @@
 import { BigNumber, BigNumberish } from '@ethersproject/bignumber'
 import { TransactionResponse } from '@ethersproject/providers'
-import { useTranslation } from '@plgswap/localization'
-import { CurrencyAmount, JSBI, MINIMUM_LIQUIDITY, Percent, Token, WNATIVE } from '@plgswap/sdk'
+import { useTranslation } from '@pancakeswap/localization'
+import { CurrencyAmount, JSBI, MINIMUM_LIQUIDITY, Percent, Token, WNATIVE } from '@pancakeswap/sdk'
 import {
   AddIcon,
   AutoColumn,
@@ -16,7 +16,7 @@ import {
   TooltipText,
   useModal,
   useTooltip,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import { CommitButton } from 'components/CommitButton'
 import UnsupportedCurrencyFooter from 'components/UnsupportedCurrencyFooter'
 import { V3SwapPromotionIcon } from 'components/V3SwapPromotionIcon'

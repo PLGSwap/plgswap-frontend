@@ -1,7 +1,7 @@
 import { ReactNode } from 'react'
-import { Box, Flex, Text } from '@plgswap/uikit'
+import { Box, Flex, Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import { useTheme } from '@plgswap/hooks'
+import { useTheme } from '@pancakeswap/hooks'
 import NoSSR from 'components/NoSSR'
 
 const StyledChoiceContainer = styled(Flex)`

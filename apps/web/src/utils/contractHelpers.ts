@@ -4,7 +4,7 @@ import { provider } from 'utils/wagmi'
 import { Contract } from '@ethersproject/contracts'
 import poolsConfig from 'config/constants/pools'
 import { PoolCategory } from 'config/constants/types'
-import { CAKE } from '@plgswap/tokens'
+import { CAKE } from '@pancakeswap/tokens'
 
 // Addresses
 import {
@@ -154,7 +154,7 @@ import type {
   MmLinkedPool,
   StableSwapNativeHelper,
 } from 'config/abi/types'
-import { ChainId } from '@plgswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 
 export const getContract = ({
   abi,

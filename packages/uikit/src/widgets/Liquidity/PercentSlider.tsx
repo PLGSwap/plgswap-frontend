@@ -1,7 +1,7 @@
-import { useTranslation } from "@plgswap/localization";
-import { AtomBox } from "@plgswap/ui";
+import { useTranslation } from "@pancakeswap/localization";
+import { AtomBox } from "@pancakeswap/ui";
 import { useCallback } from "react";
-import { useDebouncedChangeHandler } from "@plgswap/hooks";
+import { useDebouncedChangeHandler } from "@pancakeswap/hooks";
 
 import { Button } from "../../components/Button";
 import { Slider } from "../../components/Slider";

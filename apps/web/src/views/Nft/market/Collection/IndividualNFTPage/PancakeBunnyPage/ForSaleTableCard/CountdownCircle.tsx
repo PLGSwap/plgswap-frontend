@@ -1,4 +1,4 @@
-import { Spinner, Text } from '@plgswap/uikit'
+import { Spinner, Text } from '@pancakeswap/uikit'
 
 import styled, { keyframes } from 'styled-components'
 

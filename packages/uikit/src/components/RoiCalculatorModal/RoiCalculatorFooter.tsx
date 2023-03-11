@@ -1,9 +1,9 @@
-import { useTranslation } from "@plgswap/localization";
-import { getApy } from "@plgswap/utils/compoundApyHelpers";
+import { useTranslation } from "@pancakeswap/localization";
+import { getApy } from "@pancakeswap/utils/compoundApyHelpers";
 import { useMemo, useState } from "react";
 import styled from "styled-components";
 
-import { BIG_ONE_HUNDRED } from "@plgswap/utils/bigNumber";
+import { BIG_ONE_HUNDRED } from "@pancakeswap/utils/bigNumber";
 import { useTooltip } from "../../hooks/useTooltip";
 import { Box, Flex, Grid } from "../Box";
 import { ExpandableLabel } from "../Button";

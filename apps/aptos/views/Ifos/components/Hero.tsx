@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Box, Container, Flex, Heading, Text } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Box, Container, Flex, Heading, Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 
 const StyledHero = styled(Box)`

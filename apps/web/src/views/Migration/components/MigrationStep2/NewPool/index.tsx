@@ -14,8 +14,8 @@ import {
   fetchCakeFlexibleSideVaultFees,
 } from 'state/pools'
 import { batch } from 'react-redux'
-import { Pool } from '@plgswap/uikit'
-import { Token } from '@plgswap/sdk'
+import { Pool } from '@pancakeswap/uikit'
+import { Token } from '@pancakeswap/sdk'
 import PoolsTable from './PoolTable'
 
 const NewPool: React.FC<React.PropsWithChildren> = () => {

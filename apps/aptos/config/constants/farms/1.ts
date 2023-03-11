@@ -1,5 +1,5 @@
-import { Pair } from '@plgswap/aptos-swap-sdk'
-import type { SerializedFarmConfig } from '@plgswap/farms'
+import { Pair } from '@pancakeswap/aptos-swap-sdk'
+import type { SerializedFarmConfig } from '@pancakeswap/farms'
 import { mainnetTokens } from '../tokens/index'
 
 const farms: SerializedFarmConfig[] = [

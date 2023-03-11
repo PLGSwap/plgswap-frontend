@@ -1,5 +1,5 @@
-import { Box, Button, TooltipText, useTooltip, FlexGap } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Box, Button, TooltipText, useTooltip, FlexGap } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 
 export const VaultStakeButtonGroup = ({
   onFlexibleClick,

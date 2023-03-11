@@ -11,11 +11,11 @@ import {
   Tab,
   TabMenu,
   Text,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import Image from 'next/image'
 import Trans from 'components/Trans'
 import { Tiers, PrizesConfig } from 'config/constants/trading-competition/prizes'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { useState } from 'react'
 import { BoldTd, Td, StyledPrizeTable } from '../../StyledPrizeTable'
 

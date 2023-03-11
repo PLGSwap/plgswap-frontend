@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
-import { useTranslation } from '@plgswap/localization'
-import { Button, Flex, HelpIcon, useTooltip } from '@plgswap/uikit'
-import { getBalanceNumber } from '@plgswap/utils/formatBalance'
+import { useTranslation } from '@pancakeswap/localization'
+import { Button, Flex, HelpIcon, useTooltip } from '@pancakeswap/uikit'
+import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import { useAccount } from 'wagmi'
 
 interface ButtonMenuProps {

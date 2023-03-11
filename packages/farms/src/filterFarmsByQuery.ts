@@ -1,4 +1,4 @@
-import latinise from '@plgswap/utils/latinise'
+import latinise from '@pancakeswap/utils/latinise'
 import { FarmWithStakedValue } from './types'
 
 export const filterFarmsByQuery = (farms: FarmWithStakedValue[], query: string): FarmWithStakedValue[] => {

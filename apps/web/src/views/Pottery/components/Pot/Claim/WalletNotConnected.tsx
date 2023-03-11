@@ -1,6 +1,6 @@
-import { Flex, BunnyPlaceholderIcon, Text } from '@plgswap/uikit'
+import { Flex, BunnyPlaceholderIcon, Text } from '@pancakeswap/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 
 const WalletNotConnected: React.FC<React.PropsWithChildren> = () => {
   const { t } = useTranslation()

@@ -1,6 +1,6 @@
-import { Trans } from '@plgswap/localization'
-import { AtomBox } from '@plgswap/ui/components/AtomBox'
-import { Button, Heading, Image, LinkExternal, Text } from '@plgswap/uikit'
+import { Trans } from '@pancakeswap/localization'
+import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
+import { Button, Heading, Image, LinkExternal, Text } from '@pancakeswap/uikit'
 import { useState, useCallback } from 'react'
 // eslint-disable-next-line import/no-unresolved
 import 'swiper/css/bundle'

@@ -8,9 +8,9 @@ import {
   MoreIcon,
   SwapFillIcon,
   SwapIcon,
-} from '@plgswap/uikit'
-import { LinkStatus } from '@plgswap/uikit/src/widgets/Menu/types'
-import { ContextApi, useTranslation } from '@plgswap/localization'
+} from '@pancakeswap/uikit'
+import { LinkStatus } from '@pancakeswap/uikit/src/widgets/Menu/types'
+import { ContextApi, useTranslation } from '@pancakeswap/localization'
 import { useMenuItemsStatus } from './useMenuItemsStatus'
 
 export type ConfigMenuDropDownItemsType = DropdownMenuItems & { hideSubNav?: boolean }

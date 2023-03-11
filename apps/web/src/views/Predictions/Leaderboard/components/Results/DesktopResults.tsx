@@ -1,7 +1,7 @@
-import { Card, Table, Th } from '@plgswap/uikit'
+import { Card, Table, Th } from '@pancakeswap/uikit'
 import { PredictionUser } from 'state/types'
 import Container from 'components/Layout/Container'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'
 import DesktopRow from './DesktopRow'
 

@@ -1,10 +1,10 @@
-import { Currency } from '@plgswap/sdk'
+import { Currency } from '@pancakeswap/sdk'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { useRouter } from 'next/router'
 import { useCallback } from 'react'
 import currencyId from 'utils/currencyId'
-import { CAKE, USDC } from '@plgswap/tokens'
+import { CAKE, USDC } from '@pancakeswap/tokens'
 
 export const useCurrencySelectRoute = () => {
   const native = useNativeCurrency()

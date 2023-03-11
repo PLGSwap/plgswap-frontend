@@ -1,5 +1,5 @@
-import { Token } from '@plgswap/sdk'
-import { bscTokens } from '@plgswap/tokens'
+import { Token } from '@pancakeswap/sdk'
+import { bscTokens } from '@pancakeswap/tokens'
 import erc20ABI from 'config/abi/erc20.json'
 import map from 'lodash/map'
 import omitBy from 'lodash/omitBy'

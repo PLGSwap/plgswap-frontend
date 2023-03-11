@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import { selectorByUrlsAtom } from 'state/lists/hooks'
 import { useTokenDatasSWR, useAllTokenHighLight } from 'state/info/hooks'
 import { useActiveChainId } from 'hooks/useActiveChainId'
-import { ChainId } from '@plgswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 
 export const useBSCWhiteList = () => {
   const listsByUrl = useAtomValue(selectorByUrlsAtom)

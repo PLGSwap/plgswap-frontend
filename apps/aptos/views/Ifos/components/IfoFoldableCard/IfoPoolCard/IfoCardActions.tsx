@@ -1,5 +1,5 @@
-import { useAccount } from '@plgswap/awgmi'
-import { IfoSkeletonCardActions } from '@plgswap/uikit'
+import { useAccount } from '@pancakeswap/awgmi'
+import { IfoSkeletonCardActions } from '@pancakeswap/uikit'
 import { ConnectWalletButton } from 'components/ConnectWalletButton'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { useMemo } from 'react'

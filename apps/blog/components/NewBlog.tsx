@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Box, Flex, Text } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Box, Flex, Text } from '@pancakeswap/uikit'
 import NextLink from 'next/link'
 import { useMemo } from 'react'
 import styled from 'styled-components'

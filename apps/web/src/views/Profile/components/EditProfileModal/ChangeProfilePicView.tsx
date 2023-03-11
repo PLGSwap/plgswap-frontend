@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Box, Button, InjectedModalProps, Skeleton, Text, useToast } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Box, Button, InjectedModalProps, Skeleton, Text, useToast } from '@pancakeswap/uikit'
 import { useAccount, useSigner } from 'wagmi'
 import ApproveConfirmButtons from 'components/ApproveConfirmButtons'
 import { ToastDescriptionWithTx } from 'components/Toast'

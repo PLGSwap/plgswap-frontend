@@ -1,6 +1,6 @@
-import { RowBetween, Text } from '@plgswap/uikit'
+import { RowBetween, Text } from '@pancakeswap/uikit'
 import { LightCard } from 'components/Card'
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 
 export default function PricePoolShareSection({ farmPriceBar, noLiquidity }) {
   const { t } = useTranslation()

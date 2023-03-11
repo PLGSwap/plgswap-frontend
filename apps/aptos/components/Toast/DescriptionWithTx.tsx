@@ -1,7 +1,7 @@
 // TODO: aptos merge
-import { LinkExternal, Text } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
-import truncateHash from '@plgswap/utils/truncateHash'
+import { LinkExternal, Text } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import truncateHash from '@pancakeswap/utils/truncateHash'
 import { getBlockExploreLink } from '../../utils'
 import useActiveWeb3React from '../../hooks/useActiveWeb3React'
 

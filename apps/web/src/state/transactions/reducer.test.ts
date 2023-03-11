@@ -1,4 +1,4 @@
-import { ChainId } from '@plgswap/sdk'
+import { ChainId } from '@pancakeswap/sdk'
 import { createStore, Store } from 'redux'
 import {
   addTransaction,

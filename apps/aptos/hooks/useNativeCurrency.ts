@@ -1,5 +1,5 @@
-import { AptosCoin } from '@plgswap/aptos-swap-sdk'
-import { defaultChain } from '@plgswap/awgmi'
+import { AptosCoin } from '@pancakeswap/aptos-swap-sdk'
+import { defaultChain } from '@pancakeswap/awgmi'
 import { useMemo } from 'react'
 import { useActiveChainId } from './useNetwork'
 

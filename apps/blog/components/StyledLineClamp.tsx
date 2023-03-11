@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text } from '@plgswap/uikit'
+import { Text } from '@pancakeswap/uikit'
 
 export const StyledLineClamp = styled(Text)<{ line?: number }>`
   display: -webkit-box;

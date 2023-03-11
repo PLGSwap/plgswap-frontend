@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
-import { Card, Heading, Table, Th, useMatchBreakpoints } from '@plgswap/uikit'
-import { useTranslation } from '@plgswap/localization'
+import { Card, Heading, Table, Th, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
 import { useAccount } from 'wagmi'
 import Container from 'components/Layout/Container'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'

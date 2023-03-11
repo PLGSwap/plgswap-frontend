@@ -1,8 +1,8 @@
 import styled from 'styled-components'
-import { ArrowDropDownIcon, Box, Button, Text, useModal, Flex, BoxProps, AutoRow } from '@plgswap/uikit'
+import { ArrowDropDownIcon, Box, Button, Text, useModal, Flex, BoxProps, AutoRow } from '@pancakeswap/uikit'
 import CurrencySearchModal, { CurrencySearchModalProps } from 'components/SearchModal/CurrencySearchModal'
-import { useTranslation } from '@plgswap/localization'
-import { useAccount, useAccountBalance } from '@plgswap/awgmi'
+import { useTranslation } from '@pancakeswap/localization'
+import { useAccount, useAccountBalance } from '@pancakeswap/awgmi'
 import { CurrencyLogo } from 'components/Logo/CurrencyLogo'
 
 const DropDownHeader = styled.div`

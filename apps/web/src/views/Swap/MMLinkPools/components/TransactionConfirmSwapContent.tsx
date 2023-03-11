@@ -1,5 +1,5 @@
-import { Currency, CurrencyAmount, TradeType } from '@plgswap/sdk'
-import { ConfirmationModalContent } from '@plgswap/uikit'
+import { Currency, CurrencyAmount, TradeType } from '@pancakeswap/sdk'
+import { ConfirmationModalContent } from '@pancakeswap/uikit'
 import { memo, useCallback, useMemo } from 'react'
 import { Field } from 'state/swap/actions'
 import { maxAmountSpend } from 'utils/maxAmountSpend'

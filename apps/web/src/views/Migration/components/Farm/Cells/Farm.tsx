@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Text, Pool } from '@plgswap/uikit'
-import { Token } from '@plgswap/sdk'
+import { Flex, Text, Pool } from '@pancakeswap/uikit'
+import { Token } from '@pancakeswap/sdk'
 import { TokenPairImage } from 'components/TokenImage'
-import { FarmWithStakedValue } from '@plgswap/farms'
+import { FarmWithStakedValue } from '@pancakeswap/farms'
 
 const StyledCell = styled(Pool.BaseCell)`
   flex: 0;

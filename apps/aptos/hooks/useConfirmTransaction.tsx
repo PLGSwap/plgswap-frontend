@@ -1,4 +1,4 @@
-import { TransactionResponse } from '@plgswap/awgmi/core'
+import { TransactionResponse } from '@pancakeswap/awgmi/core'
 import noop from 'lodash/noop'
 import { useReducer, useCallback } from 'react'
 

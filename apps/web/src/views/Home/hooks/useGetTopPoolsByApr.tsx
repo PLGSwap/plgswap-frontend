@@ -7,8 +7,8 @@ import { fetchCakeVaultFees, fetchPoolsPublicDataAsync, fetchCakeVaultPublicData
 import { usePoolsWithVault } from 'state/pools/hooks'
 import { useInitialBlock } from 'state/block/hooks'
 import { FetchStatus } from 'config/constants/types'
-import { Pool } from '@plgswap/uikit'
-import { Token } from '@plgswap/sdk'
+import { Pool } from '@pancakeswap/uikit'
+import { Token } from '@pancakeswap/sdk'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 
 const useGetTopPoolsByApr = (isIntersecting: boolean) => {

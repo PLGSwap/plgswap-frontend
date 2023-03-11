@@ -1,5 +1,5 @@
-import { ChainId, Pair } from '@plgswap/aptos-swap-sdk'
-import type { SerializedFarmConfig } from '@plgswap/farms'
+import { ChainId, Pair } from '@pancakeswap/aptos-swap-sdk'
+import type { SerializedFarmConfig } from '@pancakeswap/farms'
 import { APT, CAKE } from 'config/coins'
 import { mainnetTokens } from 'config/constants/tokens'
 

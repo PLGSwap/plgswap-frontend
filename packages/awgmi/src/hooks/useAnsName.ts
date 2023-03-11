@@ -1,4 +1,4 @@
-import { fetchAnsName, FetchAnsNameArgs, FetchAnsNameResult } from '@plgswap/awgmi/core'
+import { fetchAnsName, FetchAnsNameArgs, FetchAnsNameResult } from '@pancakeswap/awgmi/core'
 
 import { QueryConfig, QueryFunctionArgs } from '../types'
 import { useNetwork } from './useNetwork'

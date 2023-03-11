@@ -1,7 +1,7 @@
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@plgswap/localization'
-import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@plgswap/sdk'
-import tryParseAmount from '@plgswap/utils/tryParseAmount'
+import { useTranslation } from '@pancakeswap/localization'
+import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@pancakeswap/sdk'
+import tryParseAmount from '@pancakeswap/utils/tryParseAmount'
 
 import { PairState } from 'hooks/usePairs'
 import useTotalSupply from 'hooks/useTotalSupply'

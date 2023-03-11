@@ -6,13 +6,13 @@ import {
   SerializedLockedCakeVault,
   VaultKey,
 } from 'state/types'
-import { SerializedFarm } from '@plgswap/farms'
-import { deserializeToken } from '@plgswap/token-lists'
-import { BIG_ZERO } from '@plgswap/utils/bigNumber'
+import { SerializedFarm } from '@pancakeswap/farms'
+import { deserializeToken } from '@pancakeswap/token-lists'
+import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { isAddress } from 'utils'
 import { convertSharesToCake } from 'views/Pools/helpers'
-import { Token } from '@plgswap/sdk'
-import { Pool } from '@plgswap/uikit'
+import { Token } from '@pancakeswap/sdk'
+import { Pool } from '@pancakeswap/uikit'
 
 type UserData =
   | Pool.DeserializedPool<Token>['userData']

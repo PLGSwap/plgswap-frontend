@@ -1,4 +1,4 @@
-import { useTranslation } from '@plgswap/localization'
+import { useTranslation } from '@pancakeswap/localization'
 import {
   Box,
   Card,
@@ -8,7 +8,7 @@ import {
   ExpandableButton,
   ExpandableLabel,
   useMatchBreakpoints,
-} from '@plgswap/uikit'
+} from '@pancakeswap/uikit'
 import NoSSR from 'components/NoSSR'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { useRouter } from 'next/router'

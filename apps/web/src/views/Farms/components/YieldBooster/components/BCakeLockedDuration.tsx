@@ -1,5 +1,5 @@
-import { useTranslation } from '@plgswap/localization'
-import { Box, Button, Flex, Input, Message, MessageText, Text } from '@plgswap/uikit'
+import { useTranslation } from '@pancakeswap/localization'
+import { Box, Button, Flex, Input, Message, MessageText, Text } from '@pancakeswap/uikit'
 import { MAX_LOCK_DURATION } from 'config/constants/pools'
 import _toNumber from 'lodash/toNumber'
 import { useMemo } from 'react'

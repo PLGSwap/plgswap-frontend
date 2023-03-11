@@ -17,13 +17,13 @@ const nextConfig = {
   },
   experimental: {
     transpilePackages: [
-      '@plgswap/ui',
-      '@plgswap/uikit',
-      '@plgswap/localization',
-      '@plgswap/hooks',
-      '@plgswap/utils',
-      '@plgswap/tokens',
-      '@plgswap/farms',
+      '@pancakeswap/ui',
+      '@pancakeswap/uikit',
+      '@pancakeswap/localization',
+      '@pancakeswap/hooks',
+      '@pancakeswap/utils',
+      '@pancakeswap/tokens',
+      '@pancakeswap/farms',
     ],
   },
   async redirects() {

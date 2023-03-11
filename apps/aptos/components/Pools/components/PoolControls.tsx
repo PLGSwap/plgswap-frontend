@@ -1,5 +1,5 @@
-import { Coin } from '@plgswap/aptos-swap-sdk'
-import { Pool } from '@plgswap/uikit'
+import { Coin } from '@pancakeswap/aptos-swap-sdk'
+import { Pool } from '@pancakeswap/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { usePoolsStakedOnly, usePoolsViewMode } from 'state/user'
 
