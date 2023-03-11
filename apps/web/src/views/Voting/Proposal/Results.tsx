@@ -9,11 +9,11 @@ import {
   Progress,
   Skeleton,
   Farm as FarmUI,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { useAccount } from 'wagmi'
 import { Vote } from 'state/types'
-import { formatNumber } from '@pancakeswap/utils/formatBalance'
-import { useTranslation } from '@pancakeswap/localization'
+import { formatNumber } from '@plgswap/utils/formatBalance'
+import { useTranslation } from '@plgswap/localization'
 import { FetchStatus } from 'config/constants/types'
 import { calculateVoteResults, getTotalFromVotes } from '../helpers'
 import TextEllipsis from '../components/TextEllipsis'

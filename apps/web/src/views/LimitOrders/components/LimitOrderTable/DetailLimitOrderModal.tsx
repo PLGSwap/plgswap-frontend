@@ -11,8 +11,8 @@ import {
   BscScanIcon,
   TransactionErrorContent,
   ConfirmationPendingContent,
-} from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+} from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 import useTheme from 'hooks/useTheme'
 import { memo, useCallback, useState } from 'react'
 import styled from 'styled-components'

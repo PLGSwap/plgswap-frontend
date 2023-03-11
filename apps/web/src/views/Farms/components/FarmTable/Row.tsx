@@ -1,6 +1,6 @@
-import { FarmWithStakedValue } from '@pancakeswap/farms'
-import { useDelayedUnmount } from '@pancakeswap/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { FarmWithStakedValue } from '@plgswap/farms'
+import { useDelayedUnmount } from '@plgswap/hooks'
+import { useTranslation } from '@plgswap/localization'
 import {
   DesktopColumnSchema,
   Farm as FarmUI,
@@ -12,7 +12,7 @@ import {
   MobileColumnSchema,
   Skeleton,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { v3PromotionFarms, V3SwapPromotionIcon } from 'components/V3SwapPromotionIcon'
 import { createElement, useEffect, useRef, useState } from 'react'
 import { useFarmUser } from 'state/farms/hooks'

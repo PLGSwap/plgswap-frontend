@@ -1,12 +1,12 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, TradeType } from '@pancakeswap/sdk'
+import { useTranslation } from '@plgswap/localization'
+import { Currency, CurrencyAmount, TradeType } from '@plgswap/sdk'
 import {
   ConfirmationPendingContent,
   InjectedModalProps,
   LinkExternal,
   Text,
   TransactionErrorContent,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { memo, useCallback, useMemo, useState, useEffect } from 'react'

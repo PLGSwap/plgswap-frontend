@@ -1,6 +1,6 @@
-import { usePreloadImages } from '@pancakeswap/hooks'
-import { useTranslation } from '@pancakeswap/localization'
-import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
+import { usePreloadImages } from '@plgswap/hooks'
+import { useTranslation } from '@plgswap/localization'
+import { AtomBox } from '@plgswap/ui/components/AtomBox'
 import {
   Button,
   Heading,
@@ -15,7 +15,7 @@ import {
   TabMenu,
   Text,
   WarningIcon,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { atom, useAtom } from 'jotai'
 import { lazy, PropsWithChildren, Suspense, useMemo, useState } from 'react'
 import { isMobile } from 'react-device-detect'

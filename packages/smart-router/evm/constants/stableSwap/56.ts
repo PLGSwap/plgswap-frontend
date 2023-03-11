@@ -1,4 +1,4 @@
-import { bscTokens } from '@pancakeswap/tokens'
+import { bscTokens } from '@plgswap/tokens'
 
 import { StableSwapPool } from '../../types/pool'
 

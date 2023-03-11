@@ -1,4 +1,4 @@
-# @pancakeswap/token-lists
+# @plgswap/token-lists
 
 ## 0.0.5
 

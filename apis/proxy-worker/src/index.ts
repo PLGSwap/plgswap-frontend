@@ -1,6 +1,6 @@
 import { Router } from 'itty-router'
 import { missing, error } from 'itty-router-extras'
-import { CORS_ALLOW, handleCors, wrapCorsHeader } from '@pancakeswap/worker-utils'
+import { CORS_ALLOW, handleCors, wrapCorsHeader } from '@plgswap/worker-utils'
 
 const _corsMethods = `POST, OPTIONS`
 const _corsHeaders = `referer, origin, content-type, x-sf`

@@ -1,4 +1,4 @@
-# @pancakeswap/wagmi
+# @plgswap/wagmi
 
 ## 0.1.0
 

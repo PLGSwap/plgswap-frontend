@@ -1,4 +1,4 @@
-import { Flex } from '@pancakeswap/uikit'
+import { Flex } from '@plgswap/uikit'
 import styled from 'styled-components'
 import Footer from './components/Footer'
 import Hero from './components/Hero'

@@ -8,9 +8,9 @@ import {
   PageHeader,
   NextLinkFromReactRouter,
   PageSection,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import SectionsWithFoldableText from 'components/FoldableSection/SectionsWithFoldableText'
 import { useGetCollections } from 'state/nftMarket/hooks'
 import { FetchStatus } from 'config/constants/types'

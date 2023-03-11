@@ -1,5 +1,5 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Button as UIKitButton, AutoRenewIcon } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { Button as UIKitButton, AutoRenewIcon } from '@plgswap/uikit'
 import styled from 'styled-components'
 
 interface ConfirmButtonProps {

@@ -1,4 +1,4 @@
-import { useTranslation } from "@pancakeswap/localization";
+import { useTranslation } from "@plgswap/localization";
 import { ReactElement } from "react";
 import { Flex } from "../../components/Box";
 import { CardBody, CardRibbon } from "../../components/Card";

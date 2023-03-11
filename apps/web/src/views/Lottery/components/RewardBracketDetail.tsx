@@ -1,8 +1,8 @@
 import BigNumber from 'bignumber.js'
-import { Flex, Skeleton, Text, Balance } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { Flex, Skeleton, Text, Balance } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
-import { getBalanceNumber, getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
+import { getBalanceNumber, getFullDisplayBalance } from '@plgswap/utils/formatBalance'
 
 interface RewardBracketDetailProps {
   cakeAmount: BigNumber

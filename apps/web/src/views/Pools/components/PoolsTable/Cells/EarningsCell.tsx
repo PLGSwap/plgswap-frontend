@@ -1,11 +1,11 @@
 import styled from 'styled-components'
-import { Skeleton, Text, Flex, Box, useModal, useMatchBreakpoints, Balance, Pool } from '@pancakeswap/uikit'
+import { Skeleton, Text, Flex, Box, useModal, useMatchBreakpoints, Balance, Pool } from '@plgswap/uikit'
 import BigNumber from 'bignumber.js'
 import { PoolCategory } from 'config/constants/types'
-import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { formatNumber, getBalanceNumber, getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
-import { useTranslation } from '@pancakeswap/localization'
-import { Token } from '@pancakeswap/sdk'
+import { BIG_ZERO } from '@plgswap/utils/bigNumber'
+import { formatNumber, getBalanceNumber, getFullDisplayBalance } from '@plgswap/utils/formatBalance'
+import { useTranslation } from '@plgswap/localization'
+import { Token } from '@plgswap/sdk'
 import CollectModal from '../../Modals/CollectModal'
 
 interface EarningsCellProps {

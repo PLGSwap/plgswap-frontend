@@ -1,6 +1,6 @@
 import { useEffect, useCallback, useState, useMemo, useRef } from 'react'
 import BigNumber from 'bignumber.js'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@plgswap/sdk'
 import { useAccount } from 'wagmi'
 import {
   Image,
@@ -21,14 +21,14 @@ import {
   PageHeader,
   NextLinkFromReactRouter,
   ToggleView,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import styled from 'styled-components'
 import Page from 'components/Layout/Page'
 import { useFarms, usePollFarmsWithUserData, usePriceCakeBusd } from 'state/farms/hooks'
 import { useCakeVaultUserData } from 'state/pools/hooks'
-import { useIntersectionObserver } from '@pancakeswap/hooks'
-import { DeserializedFarm, FarmWithStakedValue, filterFarmsByQuery } from '@pancakeswap/farms'
-import { useTranslation } from '@pancakeswap/localization'
+import { useIntersectionObserver } from '@plgswap/hooks'
+import { DeserializedFarm, FarmWithStakedValue, filterFarmsByQuery } from '@plgswap/farms'
+import { useTranslation } from '@plgswap/localization'
 import { getFarmApr } from 'utils/apr'
 import orderBy from 'lodash/orderBy'
 import { useUserFarmStakedOnly, useUserFarmsViewMode } from 'state/user/hooks'

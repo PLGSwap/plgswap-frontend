@@ -1,4 +1,4 @@
-# @pancakeswap/multicall
+# @plgswap/multicall
 
 ## 0.0.2
 
