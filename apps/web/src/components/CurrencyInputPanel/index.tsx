@@ -1,13 +1,13 @@
 import { useMemo, useState } from 'react'
-import { Currency, Pair, Token, Percent, CurrencyAmount } from '@pancakeswap/sdk'
-import { Button, ChevronDownIcon, Text, useModal, Flex, Box, NumericalInput, CopyButton } from '@pancakeswap/uikit'
+import { Currency, Pair, Token, Percent, CurrencyAmount } from '@plgswap/sdk'
+import { Button, ChevronDownIcon, Text, useModal, Flex, Box, NumericalInput, CopyButton } from '@plgswap/uikit'
 import styled, { css } from 'styled-components'
 import { isAddress } from 'utils'
-import { useTranslation } from '@pancakeswap/localization'
-import { WrappedTokenInfo } from '@pancakeswap/token-lists'
+import { useTranslation } from '@plgswap/localization'
+import { WrappedTokenInfo } from '@plgswap/token-lists'
 
 import { useBUSDCurrencyAmount } from 'hooks/useBUSDPrice'
-import { formatNumber } from '@pancakeswap/utils/formatBalance'
+import { formatNumber } from '@plgswap/utils/formatBalance'
 import { StablePair } from 'views/AddLiquidity/AddStableLiquidity/hooks/useStableLPDerivedMintInfo'
 
 import { useAccount } from 'wagmi'

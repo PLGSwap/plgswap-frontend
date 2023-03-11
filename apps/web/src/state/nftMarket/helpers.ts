@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { formatBigNumber } from '@pancakeswap/utils/formatBalance'
+import { formatBigNumber } from '@plgswap/utils/formatBalance'
 import erc721Abi from 'config/abi/erc721.json'
 import nftMarketAbi from 'config/abi/nftMarket.json'
 import { NOT_ON_SALE_SELLER } from 'config/constants'

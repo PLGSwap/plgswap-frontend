@@ -1,4 +1,4 @@
-import type { Currency, Pair } from '@pancakeswap/sdk'
+import type { Currency, Pair } from '@plgswap/sdk'
 
 import { BasePair } from './pair'
 

@@ -4,9 +4,9 @@ Pancake UIkit is a set of React components and hooks used to build pages on Panc
 
 ## Install
 
-`yarn add @pancakeswap/uikit`
+`yarn add @plgswap/uikit`
 
-***Note**: In case you want to use the older version of the Pancake UIkit, you should install @pancakeswap-libs/uikit, instead, but we recommend using the latest version of the UIkit.*
+***Note**: In case you want to use the older version of the Pancake UIkit, you should install @plgswap-libs/uikit, instead, but we recommend using the latest version of the UIkit.*
 
 
 ## Setup
@@ -16,7 +16,7 @@ Pancake UIkit is a set of React components and hooks used to build pages on Panc
 Before using Pancake UIkit, you need to provide the theme file to uikit provider.
 
 ```
-import { UIKitProvider, light, dark } from '@pancakeswap/uikit'
+import { UIKitProvider, light, dark } from '@plgswap/uikit'
 ...
 <UIKitProvider theme={isDark ? dark : light}>...</UIKitProvider>
 ```
@@ -26,8 +26,8 @@ import { UIKitProvider, light, dark } from '@pancakeswap/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import '@pancakeswap/ui/css/reset.css'
-import { ResetCSS } from '@pancakeswap/uikit'
+import '@plgswap/ui/css/reset.css'
+import { ResetCSS } from '@plgswap/uikit'
 ...
 <ResetCSS />
 ```

@@ -9,9 +9,9 @@ import {
   useTooltip,
   TooltipText,
   InfoIcon,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { BetPosition } from 'state/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 
 interface TagProps extends FlexProps {
   startIcon?: ReactNode

@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.63.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.63.0...@pancakeswap/uikit@0.63.1) (2022-01-16)
+## [0.63.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.63.0...@plgswap/uikit@0.63.1) (2022-01-16)
 
 
 ### Bug Fixes
@@ -14,7 +14,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.63.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.62.0...@pancakeswap/uikit@0.63.0) (2022-01-16)
+# [0.63.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.62.0...@plgswap/uikit@0.63.0) (2022-01-16)
 
 
 ### Bug Fixes
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.62.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.61.0...@pancakeswap/uikit@0.62.0) (2021-12-30)
+# [0.62.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.61.0...@plgswap/uikit@0.62.0) (2021-12-30)
 
 
 ### Features
@@ -49,7 +49,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.61.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.60.0...@pancakeswap/uikit@0.61.0) (2021-12-17)
+# [0.61.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.60.0...@plgswap/uikit@0.61.0) (2021-12-17)
 
 
 ### Bug Fixes
@@ -66,7 +66,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.60.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.59.0...@pancakeswap/uikit@0.60.0) (2021-12-09)
+# [0.60.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.59.0...@plgswap/uikit@0.60.0) (2021-12-09)
 
 
 ### Bug Fixes
@@ -82,7 +82,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.59.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.58.1...@pancakeswap/uikit@0.59.0) (2021-12-01)
+# [0.59.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.58.1...@plgswap/uikit@0.59.0) (2021-12-01)
 
 
 ### Bug Fixes
@@ -98,7 +98,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.58.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.58.0...@pancakeswap/uikit@0.58.1) (2021-11-29)
+## [0.58.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.58.0...@plgswap/uikit@0.58.1) (2021-11-29)
 
 
 ### Bug Fixes
@@ -109,7 +109,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.58.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.57.0...@pancakeswap/uikit@0.58.0) (2021-11-24)
+# [0.58.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.57.0...@plgswap/uikit@0.58.0) (2021-11-24)
 
 
 ### Features
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.57.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.3...@pancakeswap/uikit@0.57.0) (2021-11-24)
+# [0.57.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.56.3...@plgswap/uikit@0.57.0) (2021-11-24)
 
 
 ### Bug Fixes
@@ -136,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.56.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.1...@pancakeswap/uikit@0.56.3) (2021-11-22)
+## [0.56.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.56.1...@plgswap/uikit@0.56.3) (2021-11-22)
 
 
 ### Bug Fixes
@@ -149,7 +149,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.56.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.1...@pancakeswap/uikit@0.56.2) (2021-11-22)
+## [0.56.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.56.1...@plgswap/uikit@0.56.2) (2021-11-22)
 
 
 ### Bug Fixes
@@ -162,7 +162,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.56.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.57.0...@pancakeswap/uikit@0.56.1) (2021-11-16)
+## [0.56.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.57.0...@plgswap/uikit@0.56.1) (2021-11-16)
 
 
 ### Reverts
@@ -173,7 +173,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.56.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.55.0...@pancakeswap/uikit@0.56.0) (2021-10-28)
+# [0.56.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.55.0...@plgswap/uikit@0.56.0) (2021-10-28)
 
 
 ### Bug Fixes
@@ -193,7 +193,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.55.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.5...@pancakeswap/uikit@0.55.0) (2021-10-04)
+# [0.55.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.5...@plgswap/uikit@0.55.0) (2021-10-04)
 
 
 ### Features
@@ -204,7 +204,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.54.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.4...@pancakeswap/uikit@0.54.5) (2021-09-28)
+## [0.54.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.4...@plgswap/uikit@0.54.5) (2021-09-28)
 
 
 ### Bug Fixes
@@ -216,7 +216,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.54.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.3...@pancakeswap/uikit@0.54.4) (2021-09-20)
+## [0.54.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.3...@plgswap/uikit@0.54.4) (2021-09-20)
 
 
 ### Bug Fixes
@@ -227,7 +227,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.54.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.2...@pancakeswap/uikit@0.54.3) (2021-09-17)
+## [0.54.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.2...@plgswap/uikit@0.54.3) (2021-09-17)
 
 
 ### Bug Fixes
@@ -238,7 +238,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.54.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.1...@pancakeswap/uikit@0.54.2) (2021-09-17)
+## [0.54.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.1...@plgswap/uikit@0.54.2) (2021-09-17)
 
 
 ### Bug Fixes
@@ -251,7 +251,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.54.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.0...@pancakeswap/uikit@0.54.1) (2021-09-16)
+## [0.54.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.54.0...@plgswap/uikit@0.54.1) (2021-09-16)
 
 
 ### Bug Fixes
@@ -263,7 +263,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.54.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.53.0...@pancakeswap/uikit@0.54.0) (2021-09-14)
+# [0.54.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.53.0...@plgswap/uikit@0.54.0) (2021-09-14)
 
 
 ### Bug Fixes
@@ -279,7 +279,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.53.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.52.0...@pancakeswap/uikit@0.53.0) (2021-09-14)
+# [0.53.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.52.0...@plgswap/uikit@0.53.0) (2021-09-14)
 
 
 ### Features
@@ -290,7 +290,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.52.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.51.0...@pancakeswap/uikit@0.52.0) (2021-09-13)
+# [0.52.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.51.0...@plgswap/uikit@0.52.0) (2021-09-13)
 
 
 ### Features
@@ -301,7 +301,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.51.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.50.3...@pancakeswap/uikit@0.51.0) (2021-09-09)
+# [0.51.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.50.3...@plgswap/uikit@0.51.0) (2021-09-09)
 
 
 ### Features
@@ -314,15 +314,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.50.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.50.2...@pancakeswap/uikit@0.50.3) (2021-09-06)
+## [0.50.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.50.2...@plgswap/uikit@0.50.3) (2021-09-06)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-## [0.50.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.50.1...@pancakeswap/uikit@0.50.2) (2021-09-06)
+
+
+## [0.50.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.50.1...@plgswap/uikit@0.50.2) (2021-09-06)
 
 
 ### Bug Fixes
@@ -333,15 +333,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.50.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.50.0...@pancakeswap/uikit@0.50.1) (2021-08-31)
+## [0.50.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.50.0...@plgswap/uikit@0.50.1) (2021-08-31)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-# [0.50.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.49.2...@pancakeswap/uikit@0.50.0) (2021-08-31)
+
+
+# [0.50.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.49.2...@plgswap/uikit@0.50.0) (2021-08-31)
 
 
 ### Features
@@ -352,15 +352,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.49.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.49.1...@pancakeswap/uikit@0.49.2) (2021-08-27)
+## [0.49.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.49.1...@plgswap/uikit@0.49.2) (2021-08-27)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-## [0.49.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.49.0...@pancakeswap/uikit@0.49.1) (2021-08-20)
+
+
+## [0.49.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.49.0...@plgswap/uikit@0.49.1) (2021-08-20)
 
 
 ### Bug Fixes
@@ -371,7 +371,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.49.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.48.0...@pancakeswap/uikit@0.49.0) (2021-08-20)
+# [0.49.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.48.0...@plgswap/uikit@0.49.0) (2021-08-20)
 
 
 ### Features
@@ -382,7 +382,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.48.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.47.0...@pancakeswap/uikit@0.48.0) (2021-08-19)
+# [0.48.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.47.0...@plgswap/uikit@0.48.0) (2021-08-19)
 
 
 ### Features
@@ -394,7 +394,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.47.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.46.2...@pancakeswap/uikit@0.47.0) (2021-08-12)
+# [0.47.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.46.2...@plgswap/uikit@0.47.0) (2021-08-12)
 
 
 ### Features
@@ -405,23 +405,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.46.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.46.1...@pancakeswap/uikit@0.46.2) (2021-08-11)
+## [0.46.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.46.1...@plgswap/uikit@0.46.2) (2021-08-11)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
-
-
-
-## [0.46.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.46.0...@pancakeswap/uikit@0.46.1) (2021-08-09)
-
-**Note:** Version bump only for package @pancakeswap/uikit
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
 
 
-# [0.46.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.45.0...@pancakeswap/uikit@0.46.0) (2021-08-09)
+## [0.46.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.46.0...@plgswap/uikit@0.46.1) (2021-08-09)
+
+**Note:** Version bump only for package @plgswap/uikit
+
+
+
+
+
+# [0.46.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.45.0...@plgswap/uikit@0.46.0) (2021-08-09)
 
 
 ### Bug Fixes
@@ -437,7 +437,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.45.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.44.1...@pancakeswap/uikit@0.45.0) (2021-08-06)
+# [0.45.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.44.1...@plgswap/uikit@0.45.0) (2021-08-06)
 
 
 ### Features
@@ -449,15 +449,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.44.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.44.0...@pancakeswap/uikit@0.44.1) (2021-08-05)
+## [0.44.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.44.0...@plgswap/uikit@0.44.1) (2021-08-05)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-# [0.44.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.43.0...@pancakeswap/uikit@0.44.0) (2021-08-03)
+
+
+# [0.44.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.43.0...@plgswap/uikit@0.44.0) (2021-08-03)
 
 
 ### Features
@@ -468,7 +468,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.43.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.42.1...@pancakeswap/uikit@0.43.0) (2021-08-02)
+# [0.43.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.42.1...@plgswap/uikit@0.43.0) (2021-08-02)
 
 
 ### Features
@@ -480,15 +480,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.42.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.42.0...@pancakeswap/uikit@0.42.1) (2021-07-29)
+## [0.42.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.42.0...@plgswap/uikit@0.42.1) (2021-07-29)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-# [0.42.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.41.0...@pancakeswap/uikit@0.42.0) (2021-07-28)
+
+
+# [0.42.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.41.0...@plgswap/uikit@0.42.0) (2021-07-28)
 
 
 ### Features
@@ -499,7 +499,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.41.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.4...@pancakeswap/uikit@0.41.0) (2021-07-21)
+# [0.41.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.40.4...@plgswap/uikit@0.41.0) (2021-07-21)
 
 
 ### Features
@@ -510,15 +510,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.40.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.3...@pancakeswap/uikit@0.40.4) (2021-07-16)
+## [0.40.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.40.3...@plgswap/uikit@0.40.4) (2021-07-16)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-## [0.40.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.2...@pancakeswap/uikit@0.40.3) (2021-07-15)
+
+
+## [0.40.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.40.2...@plgswap/uikit@0.40.3) (2021-07-15)
 
 
 ### Bug Fixes
@@ -529,23 +529,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.40.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.1...@pancakeswap/uikit@0.40.2) (2021-07-09)
+## [0.40.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.40.1...@plgswap/uikit@0.40.2) (2021-07-09)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
-
-
-
-## [0.40.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.0...@pancakeswap/uikit@0.40.1) (2021-07-09)
-
-**Note:** Version bump only for package @pancakeswap/uikit
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
 
 
-# [0.40.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.4...@pancakeswap/uikit@0.40.0) (2021-07-01)
+## [0.40.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.40.0...@plgswap/uikit@0.40.1) (2021-07-09)
+
+**Note:** Version bump only for package @plgswap/uikit
+
+
+
+
+
+# [0.40.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.39.4...@plgswap/uikit@0.40.0) (2021-07-01)
 
 
 ### Features
@@ -556,31 +556,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.39.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.3...@pancakeswap/uikit@0.39.4) (2021-06-30)
+## [0.39.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.39.3...@plgswap/uikit@0.39.4) (2021-06-30)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
-
-
-
-## [0.39.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.2...@pancakeswap/uikit@0.39.3) (2021-06-21)
-
-**Note:** Version bump only for package @pancakeswap/uikit
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
 
 
-## [0.39.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.1...@pancakeswap/uikit@0.39.2) (2021-06-18)
+## [0.39.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.39.2...@plgswap/uikit@0.39.3) (2021-06-21)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-## [0.39.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.0...@pancakeswap/uikit@0.39.1) (2021-06-17)
+
+
+## [0.39.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.39.1...@plgswap/uikit@0.39.2) (2021-06-18)
+
+**Note:** Version bump only for package @plgswap/uikit
+
+
+
+
+
+## [0.39.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.39.0...@plgswap/uikit@0.39.1) (2021-06-17)
 
 
 ### Bug Fixes
@@ -591,7 +591,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.39.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.38.0...@pancakeswap/uikit@0.39.0) (2021-06-14)
+# [0.39.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.38.0...@plgswap/uikit@0.39.0) (2021-06-14)
 
 
 ### Features
@@ -602,7 +602,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.38.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.37.1...@pancakeswap/uikit@0.38.0) (2021-06-11)
+# [0.38.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.37.1...@plgswap/uikit@0.38.0) (2021-06-11)
 
 
 ### Bug Fixes
@@ -618,7 +618,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.37.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.37.0...@pancakeswap/uikit@0.37.1) (2021-06-09)
+## [0.37.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.37.0...@plgswap/uikit@0.37.1) (2021-06-09)
 
 
 ### Bug Fixes
@@ -630,7 +630,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.37.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.36.1...@pancakeswap/uikit@0.37.0) (2021-06-08)
+# [0.37.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.36.1...@plgswap/uikit@0.37.0) (2021-06-08)
 
 
 ### Features
@@ -641,15 +641,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.36.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.36.0...@pancakeswap/uikit@0.36.1) (2021-06-03)
+## [0.36.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.36.0...@plgswap/uikit@0.36.1) (2021-06-03)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-# [0.36.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.35.0...@pancakeswap/uikit@0.36.0) (2021-05-31)
+
+
+# [0.36.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.35.0...@plgswap/uikit@0.36.0) (2021-05-31)
 
 
 ### Features
@@ -660,7 +660,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.35.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.34.0...@pancakeswap/uikit@0.35.0) (2021-05-27)
+# [0.35.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.34.0...@plgswap/uikit@0.35.0) (2021-05-27)
 
 
 ### Features
@@ -671,7 +671,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.34.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.33.2...@pancakeswap/uikit@0.34.0) (2021-05-26)
+# [0.34.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.33.2...@plgswap/uikit@0.34.0) (2021-05-26)
 
 
 ### Features
@@ -682,7 +682,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.33.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.33.1...@pancakeswap/uikit@0.33.2) (2021-05-26)
+## [0.33.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.33.1...@plgswap/uikit@0.33.2) (2021-05-26)
 
 
 ### Bug Fixes
@@ -695,7 +695,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.33.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.33.0...@pancakeswap/uikit@0.33.1) (2021-05-25)
+## [0.33.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.33.0...@plgswap/uikit@0.33.1) (2021-05-25)
 
 
 ### Bug Fixes
@@ -706,7 +706,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.33.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.32.3...@pancakeswap/uikit@0.33.0) (2021-05-24)
+# [0.33.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.32.3...@plgswap/uikit@0.33.0) (2021-05-24)
 
 
 ### Bug Fixes
@@ -725,15 +725,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.32.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.32.2...@pancakeswap/uikit@0.32.3) (2021-05-11)
+## [0.32.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.32.2...@plgswap/uikit@0.32.3) (2021-05-11)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-## [0.32.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.32.1...@pancakeswap/uikit@0.32.2) (2021-05-11)
+
+
+## [0.32.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.32.1...@plgswap/uikit@0.32.2) (2021-05-11)
 
 
 ### Bug Fixes
@@ -744,15 +744,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.32.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.32.0...@pancakeswap/uikit@0.32.1) (2021-05-11)
+## [0.32.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.32.0...@plgswap/uikit@0.32.1) (2021-05-11)
 
-**Note:** Version bump only for package @pancakeswap/uikit
-
-
+**Note:** Version bump only for package @plgswap/uikit
 
 
 
-# [0.32.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.31.0...@pancakeswap/uikit@0.32.0) (2021-05-11)
+
+
+# [0.32.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.31.0...@plgswap/uikit@0.32.0) (2021-05-11)
 
 
 ### Bug Fixes
@@ -768,7 +768,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.31.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.30.0...@pancakeswap/uikit@0.31.0) (2021-05-10)
+# [0.31.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap/uikit@0.30.0...@plgswap/uikit@0.31.0) (2021-05-10)
 
 
 ### Features
@@ -836,7 +836,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.29.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.29.3...@pancakeswap-libs/uikit@0.29.4) (2021-05-06)
+## [0.29.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.29.3...@plgswap-libs/uikit@0.29.4) (2021-05-06)
 
 
 ### Bug Fixes
@@ -847,15 +847,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.29.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.29.2...@pancakeswap-libs/uikit@0.29.3) (2021-05-03)
+## [0.29.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.29.2...@plgswap-libs/uikit@0.29.3) (2021-05-03)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-## [0.29.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.29.1...@pancakeswap-libs/uikit@0.29.2) (2021-04-30)
+
+
+## [0.29.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.29.1...@plgswap-libs/uikit@0.29.2) (2021-04-30)
 
 
 ### Bug Fixes
@@ -866,7 +866,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.29.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.29.0...@pancakeswap-libs/uikit@0.29.1) (2021-04-29)
+## [0.29.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.29.0...@plgswap-libs/uikit@0.29.1) (2021-04-29)
 
 
 ### Bug Fixes
@@ -877,7 +877,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.29.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.28.1...@pancakeswap-libs/uikit@0.29.0) (2021-04-28)
+# [0.29.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.28.1...@plgswap-libs/uikit@0.29.0) (2021-04-28)
 
 
 ### Features
@@ -888,15 +888,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.28.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.28.0...@pancakeswap-libs/uikit@0.28.1) (2021-04-27)
+## [0.28.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.28.0...@plgswap-libs/uikit@0.28.1) (2021-04-27)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-# [0.28.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.27.1...@pancakeswap-libs/uikit@0.28.0) (2021-04-23)
+
+
+# [0.28.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.27.1...@plgswap-libs/uikit@0.28.0) (2021-04-23)
 
 
 ### Bug Fixes
@@ -912,15 +912,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.27.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.27.0...@pancakeswap-libs/uikit@0.27.1) (2021-04-22)
+## [0.27.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.27.0...@plgswap-libs/uikit@0.27.1) (2021-04-22)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-# [0.27.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.26.0...@pancakeswap-libs/uikit@0.27.0) (2021-04-22)
+
+
+# [0.27.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.26.0...@plgswap-libs/uikit@0.27.0) (2021-04-22)
 
 
 ### Features
@@ -932,7 +932,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.26.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.25.3...@pancakeswap-libs/uikit@0.26.0) (2021-04-20)
+# [0.26.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.25.3...@plgswap-libs/uikit@0.26.0) (2021-04-20)
 
 
 ### Features
@@ -943,7 +943,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.25.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.25.2...@pancakeswap-libs/uikit@0.25.3) (2021-04-15)
+## [0.25.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.25.2...@plgswap-libs/uikit@0.25.3) (2021-04-15)
 
 
 ### Bug Fixes
@@ -954,7 +954,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.25.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.25.1...@pancakeswap-libs/uikit@0.25.2) (2021-04-15)
+## [0.25.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.25.1...@plgswap-libs/uikit@0.25.2) (2021-04-15)
 
 
 ### Bug Fixes
@@ -965,15 +965,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.25.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.25.0...@pancakeswap-libs/uikit@0.25.1) (2021-04-15)
+## [0.25.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.25.0...@plgswap-libs/uikit@0.25.1) (2021-04-15)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-# [0.25.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.24.1...@pancakeswap-libs/uikit@0.25.0) (2021-04-14)
+
+
+# [0.25.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.24.1...@plgswap-libs/uikit@0.25.0) (2021-04-14)
 
 
 ### Bug Fixes
@@ -984,7 +984,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.24.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.24.0...@pancakeswap-libs/uikit@0.24.1) (2021-04-14)
+## [0.24.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.24.0...@plgswap-libs/uikit@0.24.1) (2021-04-14)
 
 
 ### Bug Fixes
@@ -995,7 +995,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.24.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.23.2...@pancakeswap-libs/uikit@0.24.0) (2021-04-13)
+# [0.24.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.23.2...@plgswap-libs/uikit@0.24.0) (2021-04-13)
 
 
 ### Bug Fixes
@@ -1012,7 +1012,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.23.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.23.1...@pancakeswap-libs/uikit@0.23.2) (2021-04-12)
+## [0.23.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.23.1...@plgswap-libs/uikit@0.23.2) (2021-04-12)
 
 
 ### Bug Fixes
@@ -1023,15 +1023,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.23.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.23.0...@pancakeswap-libs/uikit@0.23.1) (2021-04-12)
+## [0.23.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.23.0...@plgswap-libs/uikit@0.23.1) (2021-04-12)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-# [0.23.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.2...@pancakeswap-libs/uikit@0.23.0) (2021-04-12)
+
+
+# [0.23.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.22.2...@plgswap-libs/uikit@0.23.0) (2021-04-12)
 
 
 ### Bug Fixes
@@ -1047,7 +1047,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.1...@pancakeswap-libs/uikit@0.22.2) (2021-04-11)
+## [0.22.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.22.1...@plgswap-libs/uikit@0.22.2) (2021-04-11)
 
 
 ### Bug Fixes
@@ -1058,7 +1058,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.0...@pancakeswap-libs/uikit@0.22.1) (2021-04-10)
+## [0.22.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.22.0...@plgswap-libs/uikit@0.22.1) (2021-04-10)
 
 
 ### Bug Fixes
@@ -1071,7 +1071,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.22.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.21.0...@pancakeswap-libs/uikit@0.22.0) (2021-04-07)
+# [0.22.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.21.0...@plgswap-libs/uikit@0.22.0) (2021-04-07)
 
 
 ### Features
@@ -1082,7 +1082,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.21.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.20.1...@pancakeswap-libs/uikit@0.21.0) (2021-04-06)
+# [0.21.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.20.1...@plgswap-libs/uikit@0.21.0) (2021-04-06)
 
 
 ### Bug Fixes
@@ -1098,15 +1098,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.20.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.20.0...@pancakeswap-libs/uikit@0.20.1) (2021-04-02)
+## [0.20.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.20.0...@plgswap-libs/uikit@0.20.1) (2021-04-02)
 
-**Note:** Version bump only for package @pancakeswap-libs/uikit
-
-
+**Note:** Version bump only for package @plgswap-libs/uikit
 
 
 
-# [0.20.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.19.0...@pancakeswap-libs/uikit@0.20.0) (2021-04-02)
+
+
+# [0.20.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.19.0...@plgswap-libs/uikit@0.20.0) (2021-04-02)
 
 
 ### Bug Fixes
@@ -1122,7 +1122,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.19.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.18.0...@pancakeswap-libs/uikit@0.19.0) (2021-03-31)
+# [0.19.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.18.0...@plgswap-libs/uikit@0.19.0) (2021-03-31)
 
 
 ### Bug Fixes
@@ -1139,7 +1139,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.18.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.17.0...@pancakeswap-libs/uikit@0.18.0) (2021-03-30)
+# [0.18.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.17.0...@plgswap-libs/uikit@0.18.0) (2021-03-30)
 
 
 ### Bug Fixes
@@ -1159,7 +1159,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.17.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.16.0...@pancakeswap-libs/uikit@0.17.0) (2021-03-24)
+# [0.17.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.16.0...@plgswap-libs/uikit@0.17.0) (2021-03-24)
 
 
 ### Features
@@ -1171,7 +1171,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.16.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.15.2...@pancakeswap-libs/uikit@0.16.0) (2021-03-22)
+# [0.16.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.15.2...@plgswap-libs/uikit@0.16.0) (2021-03-22)
 
 
 ### Features
@@ -1182,7 +1182,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.15.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.15.2...@pancakeswap-libs/uikit@0.15.2) (2021-03-19)
+## [0.15.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@plgswap-libs/uikit@0.15.2...@plgswap-libs/uikit@0.15.2) (2021-03-19)
 
 
 ### Bug Fixes

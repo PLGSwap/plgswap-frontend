@@ -1,5 +1,5 @@
-import { defaultChain } from '@pancakeswap/awgmi'
-import { mainnet, testnet, Chain } from '@pancakeswap/awgmi/core'
+import { defaultChain } from '@plgswap/awgmi'
+import { mainnet, testnet, Chain } from '@plgswap/awgmi/core'
 
 export { defaultChain }
 

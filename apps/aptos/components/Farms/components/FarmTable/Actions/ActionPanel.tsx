@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import {
   LinkExternal,
   Text,
@@ -7,10 +7,10 @@ import {
   FarmTableLiquidityProps,
   FarmTableMultiplierProps,
   Flex,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import styled, { css, keyframes } from 'styled-components'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
-import { FarmWithStakedValue } from '@pancakeswap/farms'
+import { FarmWithStakedValue } from '@plgswap/farms'
 
 import Apr, { AprProps } from '../Apr'
 import { HarvestAction, HarvestActionContainer } from './HarvestAction'

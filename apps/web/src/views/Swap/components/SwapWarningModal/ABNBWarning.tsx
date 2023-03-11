@@ -1,5 +1,5 @@
-import { LinkExternal, Text } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { LinkExternal, Text } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 
 const ABNBWarning = () => {
   const { t } = useTranslation()

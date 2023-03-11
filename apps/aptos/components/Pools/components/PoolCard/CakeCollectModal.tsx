@@ -1,5 +1,5 @@
-import { useQueryClient } from '@pancakeswap/awgmi'
-import { Pool } from '@pancakeswap/uikit'
+import { useQueryClient } from '@plgswap/awgmi'
+import { Pool } from '@plgswap/uikit'
 import useHarvestFarm from 'components/Farms/hooks/useHarvestFarm'
 import cakePoolRelatedQueries from 'components/Pools/utils/cakePoolRelatedQueries'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

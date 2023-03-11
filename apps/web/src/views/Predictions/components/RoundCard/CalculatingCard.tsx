@@ -1,5 +1,5 @@
-import { Card, CardBody, Flex, Spinner, WaitIcon, TooltipText, useTooltip, InfoIcon } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { Card, CardBody, Flex, Spinner, WaitIcon, TooltipText, useTooltip, InfoIcon } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 import { NodeRound, BetPosition } from 'state/types'
 import useTheme from 'hooks/useTheme'
 import { RoundResultBox } from '../RoundResult'

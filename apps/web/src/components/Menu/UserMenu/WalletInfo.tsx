@@ -8,18 +8,18 @@ import {
   Skeleton,
   Text,
   CopyAddress,
-} from '@pancakeswap/uikit'
-import { ChainId, WNATIVE } from '@pancakeswap/sdk'
+} from '@plgswap/uikit'
+import { ChainId, WNATIVE } from '@plgswap/sdk'
 import { FetchStatus } from 'config/constants/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import useAuth from 'hooks/useAuth'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import useTokenBalance, { useGetCakeBalance } from 'hooks/useTokenBalance'
 import { ChainLogo } from 'components/Logo/ChainLogo'
 
 import { getBlockExploreLink, getBlockExploreName } from 'utils'
-import { formatBigNumber, getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
+import { formatBigNumber, getFullDisplayBalance } from '@plgswap/utils/formatBalance'
 import { useBalance } from 'wagmi'
 import CakeBenefitsCard from './CakeBenefitsCard'
 

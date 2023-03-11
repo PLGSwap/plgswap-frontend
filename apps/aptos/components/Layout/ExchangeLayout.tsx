@@ -1,5 +1,5 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Image, Swap } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { Image, Swap } from '@plgswap/uikit'
 
 export const ExchangeLayout = ({ children }: React.PropsWithChildren) => {
   const { t } = useTranslation()

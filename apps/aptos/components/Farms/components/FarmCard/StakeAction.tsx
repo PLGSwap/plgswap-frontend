@@ -1,16 +1,16 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { AddIcon, Button, Flex, IconButton, MinusIcon, useModal, useToast, Farm as FarmUI } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { AddIcon, Button, Flex, IconButton, MinusIcon, useModal, useToast, Farm as FarmUI } from '@plgswap/uikit'
 import styled from 'styled-components'
 import { useRouter } from 'next/router'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { usePriceCakeUsdc } from 'hooks/useStablePrice'
-import type { DeserializedFarmUserData } from '@pancakeswap/farms'
-import { TransactionResponse } from '@pancakeswap/awgmi/core'
+import type { DeserializedFarmUserData } from '@plgswap/farms'
+import { TransactionResponse } from '@plgswap/awgmi/core'
 import useCatchTxError from 'hooks/useCatchTxError'
-import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
+import { BIG_ZERO } from '@plgswap/utils/bigNumber'
 import { FARM_DEFAULT_DECIMALS } from 'components/Farms/constants'
-import { FarmWithStakedValue } from '@pancakeswap/farms'
+import { FarmWithStakedValue } from '@plgswap/farms'
 
 const IconButtonWrapper = styled.div`
   display: flex;

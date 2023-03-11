@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import {
   ArrowBackIcon,
   ArrowForwardIcon,
@@ -12,9 +12,9 @@ import {
   Text,
   TokenLogo,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { isAddress } from 'utils'
-import { Currency, Token, ChainId } from '@pancakeswap/sdk'
+import { Currency, Token, ChainId } from '@plgswap/sdk'
 import { BAD_SRCS } from 'components/Logo/constants'
 import { CHAIN_QUERY_NAME } from 'config/chains'
 import { useActiveChainId } from 'hooks/useActiveChainId'

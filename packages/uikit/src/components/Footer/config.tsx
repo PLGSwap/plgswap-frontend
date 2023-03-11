@@ -62,7 +62,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
+        href: "https://app.gitbook.com/@plgswap-1/s/pancakeswap/code/bug-bounty",
       },
       {
         label: "Audits",
@@ -120,7 +120,7 @@ export const socials = [
       },
       {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
+        href: "https://t.me/PlgswapEs",
       },
       {
         label: "日本語",
@@ -136,7 +136,7 @@ export const socials = [
       },
       {
         label: "Filipino",
-        href: "https://t.me/Pancakeswap_Ph",
+        href: "https://t.me/Plgswap_Ph",
       },
       {
         label: "ქართული ენა",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Youtube",
     icon: YoutubeIcon,
-    href: "https://www.youtube.com/@pancakeswap_official",
+    href: "https://www.youtube.com/@plgswap_official",
   },
 ];
 

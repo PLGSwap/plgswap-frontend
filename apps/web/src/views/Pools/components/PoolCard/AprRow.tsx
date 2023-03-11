@@ -1,7 +1,7 @@
-import { Pool } from '@pancakeswap/uikit'
+import { Pool } from '@plgswap/uikit'
 import BigNumber from 'bignumber.js'
 import Apr from 'views/Pools/components/Apr'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@plgswap/sdk'
 
 interface AprRowProps {
   pool: Pool.DeserializedPool<Token>

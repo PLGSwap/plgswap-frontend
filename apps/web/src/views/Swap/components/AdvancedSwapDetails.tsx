@@ -1,7 +1,7 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, Percent, TradeType } from '@pancakeswap/sdk'
-import { Pair } from '@pancakeswap/smart-router/evm'
-import { Modal, ModalV2, QuestionHelper, SearchIcon, Text, Flex, Link, AutoColumn } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { Currency, CurrencyAmount, Percent, TradeType } from '@plgswap/sdk'
+import { Pair } from '@plgswap/smart-router/evm'
+import { Modal, ModalV2, QuestionHelper, SearchIcon, Text, Flex, Link, AutoColumn } from '@plgswap/uikit'
 
 import { RowBetween, RowFixed } from 'components/Layout/Row'
 import { BUYBACK_FEE, LP_HOLDERS_FEE, TOTAL_FEE, TREASURY_FEE } from 'config/constants/info'

@@ -1,8 +1,8 @@
 import styled from "styled-components";
 import BigNumber from "bignumber.js";
-import { BIG_ZERO } from "@pancakeswap/utils/bigNumber";
-import { getBalanceNumber } from "@pancakeswap/utils/formatBalance";
-import { useTranslation } from "@pancakeswap/localization";
+import { BIG_ZERO } from "@plgswap/utils/bigNumber";
+import { getBalanceNumber } from "@plgswap/utils/formatBalance";
+import { useTranslation } from "@plgswap/localization";
 
 import { Skeleton, Text, Flex, Box, Balance } from "../../../components";
 import useMatchBreakpoints from "../../../contexts/MatchBreakpoints/useMatchBreakpoints";

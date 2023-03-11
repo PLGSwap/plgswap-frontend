@@ -1,6 +1,6 @@
-import type { FarmConfigBaseProps, SerializedFarmConfig } from '@pancakeswap/farms'
-import { ChainId, Currency, Token, Trade, TradeType } from '@pancakeswap/sdk'
-import { TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
+import type { FarmConfigBaseProps, SerializedFarmConfig } from '@plgswap/farms'
+import { ChainId, Currency, Token, Trade, TradeType } from '@plgswap/sdk'
+import { TradeWithStableSwap } from '@plgswap/smart-router/evm'
 import BigNumber from 'bignumber.js'
 import { StableTrade } from 'views/Swap/StableSwap/hooks/useStableTradeExactIn'
 // a list of tokens by chain

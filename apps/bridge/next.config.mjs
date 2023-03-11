@@ -9,11 +9,11 @@ const nextConfig = {
   swcMinify: true,
   experimental: {
     transpilePackages: [
-      '@pancakeswap/uikit',
-      '@pancakeswap/ui',
-      '@pancakeswap/hooks',
-      '@pancakeswap/localization',
-      '@pancakeswap/utils',
+      '@plgswap/uikit',
+      '@plgswap/ui',
+      '@plgswap/hooks',
+      '@plgswap/localization',
+      '@plgswap/utils',
     ],
   },
   compiler: {

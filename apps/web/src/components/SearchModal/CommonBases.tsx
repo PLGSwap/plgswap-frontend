@@ -1,8 +1,8 @@
-import { ChainId, Currency, Token } from '@pancakeswap/sdk'
-import { Text, QuestionHelper, AutoColumn } from '@pancakeswap/uikit'
+import { ChainId, Currency, Token } from '@plgswap/sdk'
+import { Text, QuestionHelper, AutoColumn } from '@plgswap/uikit'
 import styled from 'styled-components'
 import useNativeCurrency from 'hooks/useNativeCurrency'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 
 import { SUGGESTED_BASES } from 'config/constants/exchange'
 import { AutoRow } from '../Layout/Row'

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Token, Currency } from '@pancakeswap/aptos-swap-sdk'
+import { Token, Currency } from '@plgswap/aptos-swap-sdk'
 import {
   Button,
   Text,
@@ -12,14 +12,14 @@ import {
   Grid,
   AutoColumn,
   ListLogo,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { getBlockExploreLink } from 'utils'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+import truncateHash from '@plgswap/utils/truncateHash'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useCombinedInactiveList } from 'state/lists/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import { useAddUserToken } from 'state/user'
-import { WrappedTokenInfo } from '@pancakeswap/token-lists'
+import { WrappedTokenInfo } from '@plgswap/token-lists'
 import { BAD_SRCS } from '../Logo/constants'
 
 interface ImportProps {

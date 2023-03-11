@@ -1,5 +1,5 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { IconButton, useTooltip, BridgeIcon } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { IconButton, useTooltip, BridgeIcon } from '@plgswap/uikit'
 
 interface BridgeInfo {
   platform: string

@@ -1,8 +1,8 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 
 import { BigNumber } from '@ethersproject/bignumber'
-import { Flex } from '@pancakeswap/uikit'
-import { ContextApi } from '@pancakeswap/localization'
+import { Flex } from '@plgswap/uikit'
+import { ContextApi } from '@plgswap/localization'
 import { DefaultTheme } from 'styled-components'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 import BuyTicketsButtons from '../Buttons/BuyTickets'

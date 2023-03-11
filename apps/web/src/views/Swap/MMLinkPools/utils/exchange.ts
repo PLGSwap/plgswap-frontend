@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, TradeType, ZERO_PERCENT } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, TradeType, ZERO_PERCENT } from '@plgswap/sdk'
 
 import { parseUnits } from '@ethersproject/units'
 import PancakeSwapMMLinkedPoolABI from 'config/abi/mmLinkedPool.json'

@@ -1,5 +1,5 @@
 import { useState, useMemo, useContext } from 'react'
-import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@plgswap/sdk'
 import {
   Button,
   Text,
@@ -15,9 +15,9 @@ import {
   NextLinkFromReactRouter,
   Link,
   AutoColumn,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import useTotalSupply from 'hooks/useTotalSupply'
 import useBUSDPrice from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'

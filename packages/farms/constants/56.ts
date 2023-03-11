@@ -1,5 +1,5 @@
-import { SerializedFarmConfig } from '@pancakeswap/farms'
-import { bscTokens } from '@pancakeswap/tokens'
+import { SerializedFarmConfig } from '@plgswap/farms'
+import { bscTokens } from '@plgswap/tokens'
 import { CAKE_BNB_LP_MAINNET } from './common'
 
 const farms: SerializedFarmConfig[] = [

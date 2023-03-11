@@ -2973,7 +2973,7 @@ exports[`renders correctly 1`] = `
               color="text"
               data-theme="dark"
               font-size="16px"
-              href="https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty"
+              href="https://app.gitbook.com/@plgswap-1/s/pancakeswap/code/bug-bounty"
               rel="noreferrer noopener"
               target="_blank"
             >
@@ -3186,7 +3186,7 @@ exports[`renders correctly 1`] = `
               class="c26 c13"
               color="textSubtle"
               font-size="16px"
-              href="https://t.me/PancakeswapEs"
+              href="https://t.me/PlgswapEs"
               rel="noreferrer noopener"
               target="_blank"
             >
@@ -3230,7 +3230,7 @@ exports[`renders correctly 1`] = `
               class="c26 c13"
               color="textSubtle"
               font-size="16px"
-              href="https://t.me/Pancakeswap_Ph"
+              href="https://t.me/Plgswap_Ph"
               rel="noreferrer noopener"
               target="_blank"
             >
@@ -3375,7 +3375,7 @@ exports[`renders correctly 1`] = `
           class="c27 c13"
           color="primary"
           font-size="16px"
-          href="https://www.youtube.com/@pancakeswap_official"
+          href="https://www.youtube.com/@plgswap_official"
           rel="noreferrer noopener"
           target="_blank"
         >

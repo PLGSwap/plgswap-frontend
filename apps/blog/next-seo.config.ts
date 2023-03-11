@@ -7,8 +7,8 @@ export const SEO: DefaultSeoProps = {
     'Cheaper and faster than Uniswap? Discover PancakeSwap, the leading DEX on BNB Smart Chain (BSC) with the best farms in DeFi and a lottery for CAKE.',
   twitter: {
     cardType: 'summary_large_image',
-    handle: '@PancakeSwap',
-    site: '@PancakeSwap',
+    handle: '@plgswap',
+    site: '@plgswap',
   },
   openGraph: {
     title: '🥞 PancakeSwap - A next evolution DeFi exchange on BNB Smart Chain (BSC)',

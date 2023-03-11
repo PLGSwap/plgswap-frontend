@@ -1,5 +1,5 @@
-import { Flex, Heading, Skeleton } from '@pancakeswap/uikit'
-import getTimePeriods from '@pancakeswap/utils/getTimePeriods'
+import { Flex, Heading, Skeleton } from '@plgswap/uikit'
+import getTimePeriods from '@plgswap/utils/getTimePeriods'
 import Timer from './Timer'
 import useNextEventCountdown from '../../hooks/useNextEventCountdown'
 

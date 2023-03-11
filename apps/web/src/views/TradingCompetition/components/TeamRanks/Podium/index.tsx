@@ -1,6 +1,6 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import styled from 'styled-components'
-import { Flex, Box, Text, Skeleton } from '@pancakeswap/uikit'
+import { Flex, Box, Text, Skeleton } from '@plgswap/uikit'
 import TeamPodiumIcon from './TeamPodiumIcon'
 import { PodiumBase } from '../../../svgs'
 import { localiseTradingVolume } from '../../../helpers'

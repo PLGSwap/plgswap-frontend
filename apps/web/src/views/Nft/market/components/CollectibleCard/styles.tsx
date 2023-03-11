@@ -11,9 +11,9 @@ import {
   Text,
   WalletFilledIcon,
   Skeleton,
-} from '@pancakeswap/uikit'
-import { Currency, Price } from '@pancakeswap/sdk'
-import { useTranslation } from '@pancakeswap/localization'
+} from '@plgswap/uikit'
+import { Currency, Price } from '@plgswap/sdk'
+import { useTranslation } from '@plgswap/localization'
 import { multiplyPriceByAmount } from 'utils/prices'
 import styled from 'styled-components'
 

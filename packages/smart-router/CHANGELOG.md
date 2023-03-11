@@ -1,4 +1,4 @@
-# @pancakeswap/smart-router
+# @plgswap/smart-router
 
 ## 0.6.1
 
@@ -6,7 +6,7 @@
 
 - d83530d6b: Remove duplicate isTradeBetter util
 - Updated dependencies [d83530d6b]
-  - @pancakeswap/sdk@3.1.3
+  - @plgswap/sdk@3.1.3
 
 ## 0.6.0
 
@@ -38,7 +38,7 @@
 
 - 1e4a4b27c: Fix missing dependencies
 - Updated dependencies [1e4a4b27c]
-  - @pancakeswap/multicall@0.0.2
+  - @plgswap/multicall@0.0.2
 
 ## 0.2.0
 

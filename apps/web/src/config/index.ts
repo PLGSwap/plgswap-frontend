@@ -1,4 +1,4 @@
-import { getFullDecimalMultiplier } from '@pancakeswap/utils/getFullDecimalMultiplier'
+import { getFullDecimalMultiplier } from '@plgswap/utils/getFullDecimalMultiplier'
 
 export const BSC_BLOCK_TIME = 3
 

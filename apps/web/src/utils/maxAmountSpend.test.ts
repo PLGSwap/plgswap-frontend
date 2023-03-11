@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Native } from '@pancakeswap/sdk'
+import { CurrencyAmount, JSBI, Native } from '@plgswap/sdk'
 import { maxAmountSpend } from './maxAmountSpend'
 
 describe('maxAmountSpend', () => {
