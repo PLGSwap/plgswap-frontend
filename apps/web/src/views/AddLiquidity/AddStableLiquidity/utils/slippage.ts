@@ -1,4 +1,4 @@
-import { JSBI, Percent } from '@pancakeswap/sdk'
+import { JSBI, Percent } from '@plgswap/sdk'
 
 import { BIPS_BASE } from 'config/constants/exchange'
 

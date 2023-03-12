@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import { Flex, useTooltip } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { Flex, useTooltip } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 import CountdownCircle from './CountdownCircle'
 
 const UpdateIndicator: React.FC<React.PropsWithChildren<{ isFetchingPancakeBunnies: boolean }>> = ({

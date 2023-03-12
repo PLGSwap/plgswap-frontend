@@ -1,5 +1,5 @@
-import { ChainId, CurrencyAmount } from '@pancakeswap/sdk'
-import { deserializeToken } from '@pancakeswap/token-lists'
+import { ChainId, CurrencyAmount } from '@plgswap/sdk'
+import { deserializeToken } from '@plgswap/token-lists'
 import fromPairs_ from 'lodash/fromPairs'
 import { StableSwapPair } from './types'
 import { createStableSwapPair } from './stableSwap'

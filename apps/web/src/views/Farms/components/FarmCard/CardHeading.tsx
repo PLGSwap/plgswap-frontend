@@ -1,5 +1,5 @@
-import { Token } from '@pancakeswap/sdk'
-import { Box, Farm as FarmUI, Flex, Heading, Skeleton, Tag } from '@pancakeswap/uikit'
+import { Token } from '@plgswap/sdk'
+import { Box, Farm as FarmUI, Flex, Heading, Skeleton, Tag } from '@plgswap/uikit'
 import { TokenPairImage } from 'components/TokenImage'
 import { v3PromotionFarms, V3SwapPromotionIcon } from 'components/V3SwapPromotionIcon'
 import styled from 'styled-components'

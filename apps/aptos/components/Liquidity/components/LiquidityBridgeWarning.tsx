@@ -1,7 +1,7 @@
-import { Currency } from '@pancakeswap/aptos-swap-sdk'
+import { Currency } from '@plgswap/aptos-swap-sdk'
 import useBridgeInfo from 'components/Swap/hooks/useBridgeInfo'
-import { Message, Flex, Text, Link } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { Message, Flex, Text, Link } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 
 const LiquidityBridgeWarning = ({ currency }: { currency?: Currency }) => {
   const { t } = useTranslation()

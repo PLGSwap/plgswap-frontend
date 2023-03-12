@@ -1,7 +1,7 @@
-import { Box, Text } from '@pancakeswap/uikit'
+import { Box, Text } from '@plgswap/uikit'
 import { PredictionUser } from 'state/types'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import { NetWinningsRow, Row } from './styles'
 import ResultAvatar from './ResultAvatar'
 

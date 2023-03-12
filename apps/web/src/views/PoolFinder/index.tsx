@@ -1,4 +1,4 @@
-import { Currency, JSBI } from '@pancakeswap/sdk'
+import { Currency, JSBI } from '@plgswap/sdk'
 import {
   AddIcon,
   Button,
@@ -8,9 +8,9 @@ import {
   NextLinkFromReactRouter,
   AutoColumn,
   ColumnCenter,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { useAccount } from 'wagmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { useCallback, useEffect, useState } from 'react'

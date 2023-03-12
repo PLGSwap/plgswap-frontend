@@ -1,4 +1,4 @@
-import { useTranslation } from "@pancakeswap/localization";
+import { useTranslation } from "@plgswap/localization";
 import { AddIcon, Button } from "../../components";
 import { NextLinkFromReactRouter } from "../../components/NextLink";
 

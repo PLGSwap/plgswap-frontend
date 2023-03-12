@@ -1,4 +1,4 @@
-# @pancakeswap/sdk
+# @plgswap/sdk
 
 ## 3.1.4
 

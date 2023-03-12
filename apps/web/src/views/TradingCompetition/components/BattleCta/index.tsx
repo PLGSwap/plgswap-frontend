@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import {
   Box,
   Button,
@@ -11,7 +11,7 @@ import {
   Text,
   TwitterIcon,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { FINISHED, OVER, REGISTRATION } from 'config/constants/trading-competition/phases'
 import { useRouter } from 'next/router'

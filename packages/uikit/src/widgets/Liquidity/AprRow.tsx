@@ -1,5 +1,5 @@
-import { useTranslation } from "@pancakeswap/localization";
-import { formatAmount } from "@pancakeswap/utils/formatInfoNumbers";
+import { useTranslation } from "@plgswap/localization";
+import { formatAmount } from "@plgswap/utils/formatInfoNumbers";
 import { Text, TooltipText } from "../../components/Text";
 import { useTooltip } from "../../hooks/useTooltip";
 import { RowBetween } from "../../components/Row";

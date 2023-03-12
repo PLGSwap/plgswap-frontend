@@ -1,16 +1,16 @@
 import { useCallback, memo, useMemo } from 'react'
-import { Currency, TradeType, CurrencyAmount } from '@pancakeswap/sdk'
+import { Currency, TradeType, CurrencyAmount } from '@plgswap/sdk'
 import {
   InjectedModalProps,
   LinkExternal,
   Text,
   TransactionErrorContent,
   ConfirmationPendingContent,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@plgswap/localization'
 import { Field } from 'state/swap/actions'
-import { TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
+import { TradeWithStableSwap } from '@plgswap/smart-router/evm'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import ConfirmSwapModalContainer from '../../components/ConfirmSwapModalContainer'
 import TransactionConfirmSwapContentWithSmartRouter from './TransactionConfirmSwapContent'

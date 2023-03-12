@@ -9,10 +9,10 @@ import {
   ModalContainer,
   ModalHeader as UIKitModalHeader,
   ModalTitle,
-} from '@pancakeswap/uikit'
+} from '@plgswap/uikit'
 import { useState, useCallback } from 'react'
-import { useAccount, useAccountBalance, APTOS_COIN } from '@pancakeswap/awgmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useAccount, useAccountBalance, APTOS_COIN } from '@plgswap/awgmi'
+import { useTranslation } from '@plgswap/localization'
 import styled from 'styled-components'
 
 import { LOW_APT } from 'config'

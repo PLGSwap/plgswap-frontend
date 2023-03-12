@@ -10,9 +10,9 @@ import {
   WBNB,
   ERC20Token,
   WETH9,
-} from '@pancakeswap/sdk'
+} from '@plgswap/sdk'
 import { FAST_INTERVAL } from 'config/constants'
-import { BUSD, CAKE, USDC } from '@pancakeswap/tokens'
+import { BUSD, CAKE, USDC } from '@plgswap/tokens'
 import { useMemo } from 'react'
 import useSWR from 'swr'
 import useSWRImmutable from 'swr/immutable'

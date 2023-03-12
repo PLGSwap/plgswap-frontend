@@ -1,4 +1,4 @@
-import { bscTokens } from '@pancakeswap/tokens'
+import { bscTokens } from '@plgswap/tokens'
 import IfoContainer from './components/IfoContainer'
 import IfoSteps from './components/IfoSteps'
 import ComingSoonSection from './components/ComingSoonSection'

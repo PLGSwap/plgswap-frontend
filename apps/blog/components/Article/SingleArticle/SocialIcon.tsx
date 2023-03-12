@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, TwitterIcon, TelegramIcon, RedditIcon, Link } from '@pancakeswap/uikit'
+import { Flex, TwitterIcon, TelegramIcon, RedditIcon, Link } from '@plgswap/uikit'
 import { useRouter } from 'next/router'
 
 const StyledLink = styled(Link)`

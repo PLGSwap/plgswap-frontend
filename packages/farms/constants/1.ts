@@ -1,5 +1,5 @@
-import { ethereumTokens } from '@pancakeswap/tokens'
-import { SerializedFarmConfig } from '@pancakeswap/farms'
+import { ethereumTokens } from '@plgswap/tokens'
+import { SerializedFarmConfig } from '@plgswap/farms'
 
 const farms: SerializedFarmConfig[] = [
   {

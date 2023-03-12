@@ -1,5 +1,5 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Text } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { Text } from '@plgswap/uikit'
 import styled from 'styled-components'
 
 const StyledNotFound = styled.div`

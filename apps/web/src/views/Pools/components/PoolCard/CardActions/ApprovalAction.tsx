@@ -1,7 +1,7 @@
-import { Button, AutoRenewIcon, Skeleton, Pool } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { Button, AutoRenewIcon, Skeleton, Pool } from '@plgswap/uikit'
+import { useTranslation } from '@plgswap/localization'
 import { useERC20 } from 'hooks/useContract'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@plgswap/sdk'
 import { useApprovePool } from '../../../hooks/useApprove'
 
 interface ApprovalActionProps {

@@ -1,5 +1,5 @@
-import { useTranslation } from '@pancakeswap/localization'
-import { Card, Heading, Text } from '@pancakeswap/uikit'
+import { useTranslation } from '@plgswap/localization'
+import { Card, Heading, Text } from '@plgswap/uikit'
 import Page from 'components/Layout/Page'
 import { useMemo } from 'react'
 import { useAllTokenDataSWR, useTokenDatasSWR } from 'state/info/hooks'
