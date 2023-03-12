@@ -13,6 +13,8 @@ describe('worker-utils', () => {
     ['https://test.pancake.run', true],
     ['http://localhost:3000', true],
     ['http://localhost:3001', true],
+    ['https://plgswap.com', true],
+    ['https://www.plgswap.com', true],
   ])(`isOriginAllowed(%s)`, (origin, expected) => {
     expect(isOriginAllowed(origin, CORS_ALLOW)).toBe(expected)
   })
