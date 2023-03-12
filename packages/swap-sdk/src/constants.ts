@@ -5,7 +5,6 @@ export enum ChainId {
   ETHEREUM = 1,
   GOERLI = 5,
   BSC = 56,
-  CRYTO = 424,
   POLYGOMIC = 4242,
   BSC_TESTNET = 97,
 }
