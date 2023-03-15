@@ -7,7 +7,7 @@ import {
 export const plgTokens = {
   wpolyg: WPOLYG[ChainId.POLYGOMIC],
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
-  POLYG: new ERC20Token(
+  polyg: new ERC20Token(
     ChainId.BSC,
     '0x01cf9b10fC19eEAF93D5F7846A4e96609310a73C',
     18,

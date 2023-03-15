@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WNATIVE } from '@plgswap/sdk'
 import { BigNumber } from '@ethersproject/bignumber'
-import { bscTokens, bscTestnetTokens, USDC, USDT, BUSD, WBTC_ETH } from '@plgswap/tokens'
+import { bscTokens, bscTestnetTokens, USDC, USDT, BUSD, WBTC_ETH, plgTokens } from '@plgswap/tokens'
 import { ChainMap, ChainTokenList } from './types'
 
 export const ROUTER_ADDRESS: ChainMap<string> = {
@@ -23,6 +23,21 @@ export const BASES_TO_CHECK_TRADES_AGAINST: ChainTokenList = {
     bscTokens.btcb,
     bscTokens.eth,
     bscTokens.usdc,
+  ],
+  [ChainId.POLYGOMIC]: [
+    plgTokens.wpolyg,
+    plgTokens.cake,
+    plgTokens.busd,
+    plgTokens.usdt,
+    plgTokens.crusd,
+    plgTokens.eth,
+    plgTokens.usdc,
+    plgTokens.dai,
+    plgTokens.plgswap,
+    plgTokens.bnb,
+    plgTokens.ada,
+    plgTokens.btc,
+    plgTokens.doge,
   ],
   [ChainId.BSC_TESTNET]: [bscTestnetTokens.wbnb, bscTestnetTokens.cake, bscTestnetTokens.busd],
 }
