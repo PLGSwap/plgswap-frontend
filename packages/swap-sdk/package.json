@@ -15,7 +15,9 @@
   },
   "keywords": [
     "pancakeswap",
-    "bsc"
+    "bsc",
+    "plg",
+    "POLYGOMIC"
   ],
   "module": "dist/index.mjs",
   "scripts": {
