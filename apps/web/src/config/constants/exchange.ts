@@ -69,6 +69,7 @@ export const SUGGESTED_BASES: ChainTokenList = {
   [ChainId.ETHEREUM]: [USDC[ChainId.ETHEREUM], USDT[ChainId.ETHEREUM], WNATIVE[ChainId.ETHEREUM], WBTC_ETH],
   [ChainId.GOERLI]: [USDC[ChainId.GOERLI], WNATIVE[ChainId.GOERLI], BUSD[ChainId.GOERLI]],
   [ChainId.BSC]: [bscTokens.usdt, bscTokens.cake, bscTokens.btcb],
+  [ChainId.POLYGOMIC]: [plgTokens.usdt, plgTokens.usdc, plgTokens.dai, plgTokens.crusd, plgTokens.plgswap, plgTokens.bnb, plgTokens.eth, plgTokens.btc, plgTokens.wpolyg],
   [ChainId.BSC_TESTNET]: [bscTestnetTokens.wbnb, bscTestnetTokens.cake, bscTestnetTokens.busd],
 }
 
@@ -77,6 +78,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
   [ChainId.ETHEREUM]: [USDC[ChainId.ETHEREUM], WNATIVE[ChainId.ETHEREUM], USDT[ChainId.ETHEREUM], WBTC_ETH],
   [ChainId.GOERLI]: [USDC[ChainId.GOERLI], WNATIVE[ChainId.GOERLI], BUSD[ChainId.GOERLI]],
   [ChainId.BSC]: [bscTokens.wbnb, bscTokens.dai, bscTokens.busd, bscTokens.usdt, bscTokens.cake],
+  [ChainId.POLYGOMIC]: [plgTokens.usdt, plgTokens.usdc, plgTokens.dai, plgTokens.crusd, plgTokens.plgswap, plgTokens.bnb, plgTokens.eth, plgTokens.btc, plgTokens.wpolyg],
   [ChainId.BSC_TESTNET]: [bscTestnetTokens.wbnb, bscTestnetTokens.cake, bscTestnetTokens.busd],
 }
 
@@ -90,6 +92,12 @@ export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } 
     [bscTokens.cake, bscTokens.wbnb],
     [bscTokens.busd, bscTokens.usdt],
     [bscTokens.dai, bscTokens.usdt],
+  ],
+  [ChainId.POLYGOMIC]: [
+    [plgTokens.plgswap, plgTokens.wpolyg],
+    [plgTokens.busd, plgTokens.usdt],
+    [plgTokens.dai, plgTokens.usdt],
+    [plgTokens.crusd, plgTokens.usdt],
   ],
 }
 
