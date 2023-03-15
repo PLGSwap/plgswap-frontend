@@ -225,3 +225,11 @@ export const WBNB_POLYGOMIC = new ERC20Token(
   'WBNB',
   'Wrapped BNB',
 )
+
+export const PLGSWAP_POLYGOMIC = new ERC20Token(
+  ChainId.POLYGOMIC,
+  '0x3ec88addee3f531AdD2CA706a01AaC0fe6F727e0',
+  8,
+  'PLGSwap',
+  'PLGSwap Token',
+)
