@@ -168,7 +168,7 @@ const MultiChainHarvestModal: React.FC<MultiChainHarvestModalProp> = ({
               </Button>
             ) : (
               <Button width="100%" variant="secondary" onClick={handleSwitchNetwork}>
-                {t('Switch to BNB Smart Chain')}
+                {t('Switch to POLYGOMIC Smart Chain')}
               </Button>
             )}
           </Box>

@@ -9,7 +9,7 @@ import Image from 'next/image'
 import { aptosLogoClass } from './Logo/CurrencyLogo.css'
 
 const evmChains = [
-  { id: 4242, name: 'Polygomic Smart Chain', chainName: 'PLG' },
+  { id: 4242, name: 'Polygomic Smart Chain', chainName: 'plg' },
   { id: 56, name: 'BNB Smart Chain', chainName: 'bsc' },
   { id: 1, name: 'Ethereum', chainName: 'eth' },
 ]
