@@ -18,6 +18,15 @@ export const CAKE_POLYGOMIC = new ERC20Token(
   'https://pancakeswap.finance/',
 )
 
+export const CRUSD_POLYGOMIC = new ERC20Token(
+  ChainId.POLYGOMIC,
+  '0xb731F0Cd467a4A514d1212120599aE5eDB6F031c',
+  18,
+  'CRUSD',
+  'Cryto USD',
+  'https://pancakeswap.finance/',
+)
+
 export const CAKE_TESTNET = new ERC20Token(
   ChainId.BSC_TESTNET,
   '0xFa60D973F7642B748046464e165A65B7323b0DEE',
@@ -156,6 +165,10 @@ export const CAKE = {
   [ChainId.BSC_TESTNET]: CAKE_TESTNET,
 }
 
+export const CRUSD = {
+  [ChainId.BSC]: CRUSD_POLYGOMIC,
+}
+
 export const USDC = {
   [ChainId.BSC]: USDC_BSC,
   [ChainId.POLYGOMIC]: USDC_POLYGOMIC,
@@ -173,7 +186,7 @@ export const USDT = {
 export const WBTC_ETH = new ERC20Token(
   ChainId.ETHEREUM,
   '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
-  8,
+  18,
   'WBTC',
   'Wrapped BTC',
 )
@@ -181,7 +194,7 @@ export const WBTC_ETH = new ERC20Token(
 export const WBTC_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0xAe1e5f002Bac567cAEFEc09FEa754D7226138fF8',
-  8,
+  18,
   'WBTC',
   'Wrapped BTC',
 )
@@ -189,7 +202,7 @@ export const WBTC_POLYGOMIC = new ERC20Token(
 export const WETH_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0x7a619E86E4c87594d45c0Cb6a35904a9131537f2',
-  8,
+  18,
   'WETH',
   'Wrapped Ethereum',
 )
@@ -197,7 +210,7 @@ export const WETH_POLYGOMIC = new ERC20Token(
 export const WDAI_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0x32Ca507d155a211aDBBFeb2b133E05d6Cd1f7796',
-  8,
+  18,
   'WDAI',
   'Wrapped DAI',
 )
@@ -205,7 +218,7 @@ export const WDAI_POLYGOMIC = new ERC20Token(
 export const WDOGE_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0xe280186678aAe4374FbbF90D7A784F149C7546D8',
-  8,
+  18,
   'WDOGE',
   'Wrapped Dogecoin',
 )
@@ -213,7 +226,7 @@ export const WDOGE_POLYGOMIC = new ERC20Token(
 export const WADA_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0xACD6FC61fECF8168CDe7Dc99cBA5Ab4E6FAC8F87',
-  8,
+  18,
   'WADA',
   'Wrapped Cardano',
 )
@@ -221,7 +234,7 @@ export const WADA_POLYGOMIC = new ERC20Token(
 export const WBNB_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0x3ec88addee3f531AdD2CA706a01AaC0fe6F727e0',
-  8,
+  18,
   'WBNB',
   'Wrapped BNB',
 )
@@ -229,7 +242,7 @@ export const WBNB_POLYGOMIC = new ERC20Token(
 export const PLGSWAP_POLYGOMIC = new ERC20Token(
   ChainId.POLYGOMIC,
   '0x3ec88addee3f531AdD2CA706a01AaC0fe6F727e0',
-  8,
+  18,
   'PLGSwap',
   'PLGSwap Token',
 )
