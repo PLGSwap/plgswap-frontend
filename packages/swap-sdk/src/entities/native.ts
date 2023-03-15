@@ -4,7 +4,7 @@ import { WNATIVE, NATIVE } from '../constants'
 
 /**
  *
- * Native is the main usage of a 'native' currency, i.e. for BSC mainnet and all testnets
+ * Native is the main usage of a 'native' currency, i.e. for POLYGOMIC mainnet and all testnets
  */
 export class Native extends NativeCurrency {
   protected constructor({
