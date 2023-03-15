@@ -129,7 +129,7 @@ const MultiChainHarvestModal: React.FC<MultiChainHarvestModalProp> = ({
                   <ChainLogo chainId={chainId} /> <ArrowForwardIcon color="#D67E0A" />
                   <ChainLogo chainId={ChainId.BSC} />
                 </FlexGap>
-                <span>{t('Harvest on BNB Smart Chain')}</span>
+                <span>{t('Harvest on POLYGOMIC Smart Chain')}</span>
               </FlexGap>
             </MessageText>
           </Message>
