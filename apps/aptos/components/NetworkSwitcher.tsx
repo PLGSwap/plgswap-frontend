@@ -13,6 +13,11 @@ const evmChains = [
   { id: 1, name: 'Ethereum', chainName: 'eth' },
   { id: 4242, name: 'Polygomic Smart Chain', chainName: 'plg' },
 ]
+const networks = [
+  { id: 4242, name: 'Polygomic Smart Chain', chainName: 'plg' },
+  { id: 56, name: 'BNB Smart Chain', chainName: 'bsc' },
+  { id: 1, name: 'Ethereum', chainName: 'eth' },
+];
 
 const NetworkSelect = () => {
   const { t } = useTranslation()
@@ -23,26 +28,27 @@ const NetworkSelect = () => {
         <Text color="textSubtle">{t('Select a Network')}</Text>
       </Box>
       <UserMenuDivider />
-      {evmChains.map((chain) => (
+      {networks.map((network) => (
         <UserMenuItem
-          key={chain.id}
+          key={network.id}
           style={{ justifyContent: 'flex-start' }}
           as="a"
           target="_blank"
-          href={`${APEX_DOMAIN}?chain=${chain.chainName}`}
+          href={`${APEX_DOMAIN}?chain=${network.chainName}`}
         >
           <Image
-            src={`${APEX_DOMAIN}/images/chains/${chain.id}.png`}
+            src={`${APEX_DOMAIN}/images/chains/${network.id}.png`}
             width={24}
             height={24}
             unoptimized
-            alt={`chain-${chain.id}`}
+            alt={`chain-${network.id}`}
           />
           <Text color="text" pl="12px">
-            {chain.name}
+            {network.id === 4242 ? 'Polygomic Smart Chain' : network.name}
           </Text>
         </UserMenuItem>
       ))}
+
     </>
   )
 }
