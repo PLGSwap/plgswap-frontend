@@ -215,7 +215,8 @@ function ManageLists({
         if (isValid) {
           return (
             (chainId === ChainId.ETHEREUM && ETH_URLS.includes(listUrl)) ||
-            (chainId === ChainId.BSC && BSC_URLS.includes(listUrl))
+            (chainId === ChainId.BSC && BSC_URLS.includes(listUrl)) ||
+            (chainId === ChainId.POLYGOMIC && BSC_URLS.includes(listUrl))
           )
         }
 

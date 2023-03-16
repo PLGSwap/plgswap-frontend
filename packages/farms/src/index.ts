@@ -4,7 +4,7 @@ import { ChainId } from '@plgswap/sdk'
 import { masterChefAddresses } from './const'
 import { farmV2FetchFarms, FetchFarmsParams, fetchMasterChefV2Data } from './fetchFarms'
 
-const supportedChainId = [ChainId.GOERLI, ChainId.BSC, ChainId.BSC_TESTNET, ChainId.ETHEREUM]
+const supportedChainId = [ChainId.GOERLI, ChainId.BSC, ChainId.BSC_TESTNET, ChainId.ETHEREUM, ChainId.POLYGOMIC]
 export const bCakeSupportedChainId = [ChainId.BSC, ChainId.BSC_TESTNET]
 
 export function createFarmFetcher(multicallv2: MultiCallV2) {
