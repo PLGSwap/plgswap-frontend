@@ -100,7 +100,9 @@
   "peerDependencies": {
     "@coinbase/wallet-sdk": ">=3.6.0",
     "@walletconnect/ethereum-provider": ">=1.7.5",
-    "ethers": ">=5.5.1"
+    "ethers": ">=5.5.1",
+    "@plgswapwagmi/chains": "workspace:plgswap-wagmi-chains",
+    "@plgswapwagmi/connectors": "workspace:plgswap-wagmi-connectors"
   },
   "peerDependenciesMeta": {
     "@coinbase/wallet-sdk": {
