@@ -1,5 +1,5 @@
 {
-  "name": "wagmi",
+  "name": "plgswapwagmi",
   "description": "React Hooks for Ethereum",
   "license": "MIT",
   "version": "0.10.10",
@@ -96,6 +96,8 @@
   ],
   "peerDependencies": {
     "ethers": ">=5.5.1",
+    "@plgswapwagmi/core": "workspace:plgswap-wagmi-core",
+    "@plgswap/wagmi": "workspace:wagmi",
     "react": ">=17.0.0"
   },
   "dependencies": {
@@ -105,6 +107,7 @@
     "@tanstack/react-query-persist-client": "^4.14.5",
     "@plgswapwagmi/core": "workspace:plgswap-wagmi-core",
     "@walletconnect/ethereum-provider": "^1.8.0",
+    "@plgswap/wagmi": "workspace:wagmi",
     "abitype": "^0.2.5",
     "use-sync-external-store": "^1.2.0"
   },
