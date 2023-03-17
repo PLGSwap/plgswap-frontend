@@ -15,7 +15,7 @@ import {
 import { ContextApi } from '@plgswap/localization'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import { getPerpetualUrl } from 'utils/getPerpetualUrl'
-import { SUPPORT_ONLY_BSC } from 'config/constants/supportChains'
+import { SUPPORT_ONLY_BSC, AllSupportedChains } from 'config/constants/supportChains'
 
 export type ConfigMenuDropDownItemsType = DropdownMenuItems & { hideSubNav?: boolean }
 export type ConfigMenuItemsType = Omit<MenuItemsType, 'items'> & { hideSubNav?: boolean; image?: string } & {
@@ -27,6 +27,10 @@ const addMenuItemSupported = (item, chainId) => {
     return item
   }
   if (item.supportChainIds?.includes(chainId)) {
+    return item
+  }
+
+  if (AllSupportedChains?.includes(chainId)) {
     return item
   }
   return {
