@@ -1,17 +1,18 @@
 {
-  "name": "@wagmi/core",
-  "description": "Vanilla JS library for Ethereum",
+  "name": "wagmi",
+  "description": "React Hooks for Ethereum",
   "license": "MIT",
-  "version": "0.8.14",
+  "version": "0.10.10",
   "repository": {
     "type": "git",
     "url": "https://github.com/wagmi-dev/wagmi.git",
-    "directory": "packages/core"
+    "directory": "packages/react"
   },
   "contributors": [
     "awkweb.eth <t@wagmi.sh>",
     "jxom.eth <j@wagmi.sh>"
   ],
+  "homepage": "https://wagmi.sh",
   "ethereum": "wagmi-dev.eth",
   "funding": [
     {
@@ -30,6 +31,10 @@
     ".": {
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
+    },
+    "./actions": {
+      "types": "./dist/actions.d.ts",
+      "default": "./dist/actions.js"
     },
     "./chains": {
       "types": "./dist/chains.d.ts",
@@ -63,14 +68,6 @@
       "types": "./dist/connectors/walletConnect.d.ts",
       "default": "./dist/connectors/walletConnect.js"
     },
-    "./internal": {
-      "types": "./dist/internal/index.d.ts",
-      "default": "./dist/internal/index.js"
-    },
-    "./internal/test": {
-      "types": "./dist/internal/test.d.ts",
-      "default": "./dist/internal/test.js"
-    },
     "./providers/alchemy": {
       "types": "./dist/providers/alchemy.d.ts",
       "default": "./dist/providers/alchemy.js"
@@ -91,38 +88,41 @@
   },
   "sideEffects": false,
   "files": [
+    "/actions",
     "/chains",
     "/connectors",
-    "/internal",
-    "/providers",
-    "/dist"
+    "/dist",
+    "/providers"
   ],
   "peerDependencies": {
-    "@coinbase/wallet-sdk": ">=3.6.0",
-    "@walletconnect/ethereum-provider": ">=1.7.5",
-    "ethers": ">=5.5.1"
-  },
-  "peerDependenciesMeta": {
-    "@coinbase/wallet-sdk": {
-      "optional": true
-    },
-    "@walletconnect/ethereum-provider": {
-      "optional": true
-    }
+    "ethers": ">=5.5.1",
+    "react": ">=17.0.0"
   },
   "dependencies": {
-    "@wagmi/chains": "workspace:../../references/packages/chains",
-    "@wagmi/connectors": "workspace:../../references/packages/connectors",
+    "@coinbase/wallet-sdk": "^3.6.0",
+    "@tanstack/query-sync-storage-persister": "^4.14.5",
+    "@tanstack/react-query": "^4.14.5",
+    "@tanstack/react-query-persist-client": "^4.14.5",
+    "@plgswapwagmi/core": "workspace:plgswap-wagmi-core",
+    "@walletconnect/ethereum-provider": "^1.8.0",
     "abitype": "^0.2.5",
-    "eventemitter3": "^4.0.7",
-    "zustand": "^4.3.1"
+    "use-sync-external-store": "^1.2.0"
   },
   "devDependencies": {
-    "@coinbase/wallet-sdk": "^3.6.0",
-    "@walletconnect/ethereum-provider": "^1.7.8",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/react-hooks": "^8.0.1",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.3",
+    "@types/use-sync-external-store": "^0.0.3",
+    "react": "^18.1.0",
+    "react-17": "npm:react@17.0.2",
+    "react-dom": "^18.1.0",
+    "react-dom-17": "npm:react-dom@17.0.2",
     "typescript": "^4.9.3"
   },
   "keywords": [
+    "react",
+    "hooks",
     "eth",
     "ethereum",
     "dapps",
@@ -131,7 +131,6 @@
   ],
   "scripts": {
     "build": "tsup",
-    "dev": "DEV=true tsup",
-    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
+    "dev": "DEV=true tsup"
   }
 }
