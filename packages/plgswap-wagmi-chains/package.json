@@ -43,9 +43,6 @@
     "url": "https://github.com/wagmi-dev/references.git",
     "directory": "packages/connectors"
   },
-  "peerDependencies": {
-    "@plgswapwagmi/core": "workspace:plgswap-wagmi-core"
-  },
   "keywords": [
     "eth",
     "ethereum",

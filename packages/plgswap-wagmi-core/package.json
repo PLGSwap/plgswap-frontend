@@ -102,9 +102,7 @@
     "@walletconnect/ethereum-provider": ">=1.7.5",
     "ethers": ">=5.5.1",
     "@plgswapwagmi/chains": "workspace:plgswap-wagmi-chains",
-    "@plgswapwagmi/connectors": "workspace:plgswap-wagmi-connectors",
-    "plgswapwagmi": "workspace:plgswap-wagmi-react",
-    "@plgswap/wagmi": "workspace:wagmi"
+    "@plgswapwagmi/connectors": "workspace:plgswap-wagmi-connectors"
   },
   "peerDependenciesMeta": {
     "@coinbase/wallet-sdk": {
@@ -117,7 +115,6 @@
   "dependencies": {
     "@plgswapwagmi/chains": "workspace:plgswap-wagmi-chains",
     "@plgswapwagmi/connectors": "workspace:plgswap-wagmi-connectors",
-    "plgswapwagmi": "workspace:plgswap-wagmi-react",
     "abitype": "^0.2.5",
     "eventemitter3": "^4.0.7",
     "zustand": "^4.3.1"
